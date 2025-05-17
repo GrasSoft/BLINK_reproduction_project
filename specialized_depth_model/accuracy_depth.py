@@ -20,43 +20,46 @@ def is_closer(image_path, circle_A, circle_B):
     (xB, yB) = coordB
 
 
-    # Create masks for the circles
-    mask_A = np.zeros_like(image, dtype=np.uint8)
-    cv2.circle(mask_A, (int(xA), int(yA)), int(rA), 255, -1)
+    # # Create masks for the circles
+    # mask_A = np.zeros_like(image, dtype=np.uint8)
+    # cv2.circle(mask_A, (int(xA), int(yA)), int(rA), 255, -1)
 
-    mask_B = np.zeros_like(image, dtype=np.uint8)
-    cv2.circle(mask_B, (int(xB), int(yB)), int(rB), 255, -1)
+    # mask_B = np.zeros_like(image, dtype=np.uint8)
+    # cv2.circle(mask_B, (int(xB), int(yB)), int(rB), 255, -1)
 
-    # Mask the image to get the region inside each circle
-    region_A = cv2.bitwise_and(image, image, mask=mask_A)
-    region_B = cv2.bitwise_and(image, image, mask=mask_B)
+    # # Mask the image to get the region inside each circle
+    # region_A = cv2.bitwise_and(image, image, mask=mask_A)
+    # region_B = cv2.bitwise_and(image, image, mask=mask_B)
 
-    # Compute the average depth (intensity) in each region
-    avg_A = np.mean(region_A[region_A > 0])  # Ignore black pixels (0)
-    avg_B = np.mean(region_B[region_B > 0])  # Ignore black pixels (0)
+    # # Compute the average depth (intensity) in each region
+    # avg_A = np.mean(region_A[region_A > 0])  # Ignore black pixels (0)
+    # avg_B = np.mean(region_B[region_B > 0])  # Ignore black pixels (0)
 
-    # Return True if A is farther than B (i.e., A has a higher average intensity)
-    return avg_A > avg_B
+    # # Return True if A is farther than B (i.e., A has a higher average intensity)
+    # return avg_A > avg_B
     
     # just the circle center points dont work that well
     
-    # # Get the pixel values at the center of each circle
-    # value_A = image[int(yA), int(xA)]  # y, x order
-    # value_B = image[int(yB), int(xB)]  # y, x order
+    # Get the pixel values at the center of each circle
+    value_A = image[int(yA), int(xA)]  # y, x order
+    value_B = image[int(yB), int(xB)]  # y, x order
 
-    # # Compare the values: A is farther if A has a higher intensity (since whiter is farther)
-    # return value_A > value_B
+    # Compare the values: A is farther if A has a higher intensity (since whiter is farther)
+    return value_A > value_B
     
 
 count = 0
 count_correct = 0
 tc = 0
 for index, row in df.iterrows():
-    if (is_closer(row["path_depth"], row["A"], row["B"]) and ("A" in row["answer"]) ) or (not is_closer(row["path_depth"], row["A"], row["B"]) and ("B" in row["answer"])) and not ((0, 0) in ast.literal_eval(row["A"]) or (0, 0) in ast.literal_eval(row["B"])):
-        count_correct += 1
-        
-    if not ((0, 0) in ast.literal_eval(row["A"]) or (0, 0) in ast.literal_eval(row["B"])):
-        
+    A = ast.literal_eval(row["A"])
+    B = ast.literal_eval(row["B"])
+
+    if not ((0, 0) in A or (0, 0) in B):
+        if ((is_closer(row["path_depth"], row["A"], row["B"]) and "A" in row["answer"]) or
+            (not is_closer(row["path_depth"], row["A"], row["B"]) and "B" in row["answer"])):
+            count_correct += 1
+
         count += 1
     tc += 1
     

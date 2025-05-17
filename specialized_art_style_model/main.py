@@ -42,10 +42,15 @@ def run_style_transfer(vgg_mean, vgg_std, content_img, style_img):
         # Retrieve features of image that is being optimized
         normed_img = normalize(content_img, vgg_mean, vgg_std)
         input_features = model(normed_img)
+        
+        w_style = 5e5
+        w_content = 1
 
-        s_loss = style_loss(input_features, style_features, style_layers)
-    
+        s_loss = style_loss_mse(input_features, style_features, style_layers)
+        c_loss = content_loss(input_features, style_features, content_layers)
+        
         # Sum up the losses
+        # loss = loss + w_style * s_loss + w_content * c_loss
         loss = loss + s_loss
 
     return loss
@@ -86,9 +91,22 @@ if __name__ == '__main__':
         
         loss_B = run_style_transfer(vgg_mean, vgg_std, content_img, style_img)
 
+
+        name, extension = os.path.splitext(item)
+
+        import re
+        # extract number from name, e.g. "image_0" → 0
+        match = re.search(r'(\d+)', name)
+        
+
+        if not match:
+            continue  # skip files with no number
+        idx = int(match.group(1))
+
+
         results.append(
             {
-                "idx": index,
+                "idx": idx + 1,
                 "loss_A": loss_A.numpy()[0],
                 "loss_B": loss_B.numpy()[0],
                 "path_original": style_original_path + item,

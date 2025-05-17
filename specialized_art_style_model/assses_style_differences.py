@@ -1,6 +1,7 @@
 import torch
 import torch.optim as optim
 from helper_functions import *
+from sklearn.metrics.pairwise import cosine_similarity
 # WARNING: Do not import any other libraries or files
 
 def normalize(img, mean, std):
@@ -71,7 +72,10 @@ def gram_matrix(x):
     
     return gram / (c * h * w)
 
-def style_loss(input_features, style_features, style_layers):
+
+
+# MSE to compute style dissimilarity
+def style_loss_mse(input_features, style_features, style_layers):
     """ Calculates the style loss as in Gatys et al. 2016.
 
     # Parameters:
@@ -99,6 +103,77 @@ def style_loss(input_features, style_features, style_layers):
     normalized_loss = total_loss / len(style_layers)
 
     return normalized_loss
+
+
+def style_loss_cosine(input_features, style_features, style_layers):
+    """ Calculates the style loss using cosine similarity.
+    
+    # Parameters:
+        @input_features, VGG features of the image to be optimized. It is a 
+            dictionary containing the layer names as keys and the corresponding 
+            features volumes as values.
+        @style_features, VGG features of the style image. It is a dictionary 
+            containing the layer names as keys and the corresponding features 
+            volumes as values.
+        @style_layers, a list containing which layers to consider for calculating
+            the style loss.
+    
+    # Returns the style loss, a torch.tensor of size (1)
+    """
+    
+    total_loss = 0.0
+    for layer in style_layers:
+        input_layer_features = gram_matrix(input_features[layer])
+        style_layer_features = gram_matrix(style_features[layer])
+        
+        # Flatten the Gram matrices for cosine similarity
+        input_layer_features = input_layer_features.view(-1).detach().cpu().numpy()
+        style_layer_features = style_layer_features.view(-1).detach().cpu().numpy()
+
+        # Compute cosine similarity between the Gram matrices
+        similarity = cosine_similarity(input_layer_features.reshape(1, -1), style_layer_features.reshape(1, -1))
+        
+        # The cosine similarity ranges from -1 to 1, so we subtract it from 1 to get dissimilarity.
+        layer_loss = 1 - similarity[0][0]
+        
+        total_loss += layer_loss
+        
+    # Normalize the loss by the number of layers
+    normalized_loss = total_loss / len(style_layers)
+
+    return torch.tensor(normalized_loss) 
+
+
+def style_loss_frobenius(input_features, style_features, style_layers):
+    """ Calculates the style loss using the Frobenius norm.
+
+    # Parameters:
+        @input_features, VGG features of the image to be optimized. It is a 
+            dictionary containing the layer names as keys and the corresponding 
+            features volumes as values.
+        @style_features, VGG features of the style image. It is a dictionary 
+            containing the layer names as keys and the corresponding features 
+            volumes as values.
+        @style_layers, a list containing which layers to consider for calculating
+            the style loss.
+    
+    # Returns the style loss, a torch.tensor of size (1)
+    """
+    
+    total_loss = 0.0
+    for layer in style_layers:
+        input_layer_features = gram_matrix(input_features[layer])
+        style_layer_features = gram_matrix(style_features[layer])
+
+        # Compute the Frobenius norm of the difference between the Gram matrices
+        frobenius_norm = torch.norm(input_layer_features - style_layer_features, p='fro')
+        
+        total_loss += frobenius_norm
+        
+    # Normalize the loss by the number of layers
+    normalized_loss = total_loss / len(style_layers)
+
+    return normalized_loss 
 
 def total_variation_loss(y):
     """ Calculates the total variation across the spatial dimensions.

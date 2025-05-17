@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 def find_red_circles(image_path):
-    # Load the image
+   # Load the image
     image = cv2.imread(image_path)
     output_image = image.copy()
     
@@ -28,8 +28,6 @@ def find_red_circles(image_path):
     detected_centers = {
         "A": ((0, 0), 0),
         "B": ((0, 0), 0),
-        "A_coords": ((0,0), (0,0)),
-        "B_coords": ((0,0), (0,0)),
     }
 
     # Load templates for A and B
@@ -62,83 +60,37 @@ def find_red_circles(image_path):
             A_coords = list(zip(*locations_A[::-1]))
             B_coords = list(zip(*locations_B[::-1]))
 
-            margin = 5
-
             if A_coords:
                 detected_centers["A"] = (center, radius)
                 for (xa, ya) in A_coords:
                     top_left = (x1 + xa, y1 + ya)
                     bottom_right = (top_left[0] + template_A.shape[1], top_left[1] + template_A.shape[0])
-                               
-                    top_left_expanded = (max(0, top_left[0] - margin), max(0, top_left[1] - margin))
-                    bottom_right_expanded = (
-                        min(image.shape[1] - 1, top_left[0] + template_B.shape[1] + margin),
-                        min(image.shape[0] - 1, top_left[1] + template_B.shape[0] + margin)
-                    )
-                                                            
-                    detected_centers["A_coords"] = (top_left_expanded, bottom_right_expanded)
-
+                    cv2.rectangle(output_image, top_left, bottom_right, (255, 0, 0), 2)
+                    cv2.putText(output_image, 'A', (top_left[0], top_left[1] - 5),
+                                cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 0, 0), 1)
                                         
             elif B_coords:
                 detected_centers["B"] = (center, radius)
                 for (xb, yb) in B_coords:
                     top_left = (x1 + xb, y1 + yb)
                     bottom_right = (top_left[0] + template_B.shape[1], top_left[1] + template_B.shape[0])
-                    
-                    top_left_expanded = (max(0, top_left[0] - margin), max(0, top_left[1] - margin))
-                    bottom_right_expanded = (
-                        min(image.shape[1] - 1, top_left[0] + template_B.shape[1] + margin),
-                        min(image.shape[0] - 1, top_left[1] + template_B.shape[0] + margin)
-                    )
-                                                            
-                    detected_centers["B_coords"] = (top_left_expanded, bottom_right_expanded)
+                    cv2.rectangle(output_image, top_left, bottom_right, (0, 0, 255), 2)
+                    cv2.putText(output_image, 'B', (top_left[0], top_left[1] - 5),
+                                cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 1)
 
-
+    # Show the image with detected circles and letters
+    cv2.imshow("Detected Circles and Letters", output_image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+    
     return detected_centers
 
 # Example usage:
 
-path = './depth_val_images/'
-path_depth = './output_depth_val_images/'
-centers = []
-for index, item in enumerate(os.listdir(path)):
-    full_path = os.path.join(path, item)
-    cs = find_red_circles(full_path)
+path = './depth_val_images/image_70.png'
 
-    
-    # convert name 
-    name, extension = os.path.splitext(item)
+cs = find_red_circles(path)
 
-    new_name = f"{name}_depth{extension}"
-    
-    import re
-    # extract number from name, e.g. "image_0" → 0
-    match = re.search(r'(\d+)', name)
-    if not match:
-        continue  # skip files with no number
-    idx = int(match.group(1))
 
-    
-    centers.append({
-            "A" : cs["A"],
-            "B" : cs["B"],
-            "A_coords": cs["A_coords"],
-            "B_coords": cs["B_coords"],
-            "path_image": full_path,
-            "path_depth": os.path.join(path_depth, new_name),
-            "idx": idx + 1 ,
-        })
-
-    
-df_red_circles = pd.DataFrame(centers)
-
-df_questions = pd.read_parquet('../BLINK/Relative_Depth/val-00000-of-00001.parquet', engine='pyarrow')
-df_questions['idx'] = df_questions['idx'].str.extract(r'(\d+)').astype(int)
-
-#print(df_questions.head())
-
-merged_df = pd.merge(df_red_circles, df_questions, on='idx', how='inner')
-
-merged_df[["idx", "A", "B", "A_coords", "B_coords", "path_image", "path_depth", "question", "sub_task", "choices", "answer" ]].to_csv("val_depth_with_centers.csv")
 
 
