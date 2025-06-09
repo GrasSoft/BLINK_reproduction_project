@@ -14,7 +14,9 @@ disclaimer = ("Disclaimer: This is not to make unfair assumptions about the peop
 
 def analyze_answer(d, model_answer, all_choices):
     """
-    extracts the multiple choice answer from a long paragraph of model output if there is only one choice. If the model output is short and only contains the choice, reformats the choice in the correct format e.g. (A) and returns the choice as is.
+    extracts the multiple choice answer from a long paragraph of model output if there is only one choice. If the
+    model output is short and only contains the choice, reformats the choice in the correct format e.g. (A) and
+    returns the choice as is.
 
     Parameters:
     - d : data, the data containing the question and choices.
@@ -48,7 +50,8 @@ def analyze_answer(d, model_answer, all_choices):
 
 def query_model(task_name):
     """
-    loads the dataset from huggingface, query the model with the prompt and images, and saves the result to a json file with specific format.
+    loads the dataset from huggingface, query the model with the prompt and images, and saves the result to a json
+    file with specific format.
 
     Parameters:
     - task_name: String, the name of the task to evaluate.
@@ -133,9 +136,8 @@ def load_prompt(task_name, d, image_folder):
             image.save(image_path)
             image_paths.append(image_path)
 
-    # If there are multiple images, concatenate them:
+    # If there are multiple images, concatenate them (needed for LLaVA)
     if len(image_paths) > 1:
-        # print(f"We are going to concatenate {len(image_paths)} images")
         joined_image_path = f'{image_folder}/{d["idx"]}_joined.jpg'
         concat_images_horizontally_with_margin(image_paths, joined_image_path)
         image_paths = [joined_image_path]  # Replace with one combined image
@@ -176,6 +178,7 @@ if __name__ == '__main__':
     model_name = args.model_name
     print(f'Using model: {model_name}')
 
+    # Adjust to accept LLaVA and BakLLaVA as models
     model_generate_funcs = {
         'LLaVA': query_llava,
         'BakLLaVA': query_bakllava
@@ -196,12 +199,12 @@ if __name__ == '__main__':
     # Subset of all tasks due to time constraints
     elif args.task_name == 'sub_set':
         subtasks = [
-            'Relative_Reflectance',     # low, pixel
-            'Spatial_Relation',         # mid, image
-            'Jigsaw',                   # mid, crop
-            'Semantic_Correspondence',  # high, pixel
-            'Object_Localization',      # high, crop
-            'Counting'                  # high, image
+            'Relative_Reflectance',     # low-level, pixel-level
+            'Spatial_Relation',         # mid-level, image-level
+            'Jigsaw',                   # mid-level, crop-level
+            'Semantic_Correspondence',  # high-level, pixel-level
+            'Object_Localization',      # high-level, crop-level
+            'Counting'                  # high-level, image-level
         ]
     else:
         subtasks = [args.task_name]

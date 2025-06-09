@@ -20,14 +20,15 @@ def match_multiple_choice(question, options, model_output):
     """
     valid_choices = ['(A)', '(B)', '(C)', '(D)', '(E)']
 
-    # Check for exact match first
+    # First pass: look for exact string match like "(A)" in the model output
     for choice in valid_choices:
         if choice in model_output:
             return choice
 
-    # Check for partial match like 'A' instead of '(A)'
+    # Second pass: check for partial match (e.g. 'A' instead of '(A)')
     for choice in valid_choices:
         if choice.strip('()') in model_output:
             return choice
 
-    return '(Z)'  # Could not confidently match an option
+    # If no match was found, return fallback '(Z)'
+    return '(Z)'  # Indicates no valid choice could be matched
