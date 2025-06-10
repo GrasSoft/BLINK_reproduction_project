@@ -21,10 +21,10 @@ The specialist model chosen by the authors is DIRE.
 Some scripts are from the DIRE GitHub repository : https://github.com/ZhendongWang6/DIRE/tree/main?tab=readme-ov-file
 The demo.py script was adapted for infering with this specific subset of BLINK.
 The utils scripts were used directly.
+I implemented a script for processing the results of DIRE. The whole inference/evaluation process is in the forensic_detection notebook.
 
-I implemented a script for processing the results of DIRE. 
 The BLINK dataset is not very convenient because for some images, the prompt asks for the fake image (which is easy : we take the highest probably outputed by DIRE for the 4 corresponding images). However, for some other images, the prompt asks for the real image (3 are fake).
 
 Inference take 1'30 for the 132 samples in the forensic detection validation subset (sadly we don't have the groundtruth values for the test set).
 
-Final accuracy is 68.94 % which is exactly the one mention in Table 2 of the BLINK paper.
+Final accuracy is 68.94 % which is exactly the one mentioned in Table 2 of the BLINK paper.
