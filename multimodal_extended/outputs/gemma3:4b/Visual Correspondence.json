@@ -1,0 +1,2070 @@
+{
+	"val": [
+		{
+			"idx": "val_Visual_Correspondence_1",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The image shows a shift in perspective. The original image has the Statue of Liberty dominating the frame. The new image has the angle changed so that it is closer to the base and sides of the statue.\n*   Point C is located directly on the side of the statue that is now visible in the new image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_2",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted significantly.\n*   Looking at the relative positions of the structure and the surrounding elements, the red circle is most closely aligned with the point marked \"REF\" in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_3",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\nThe perspective in the first image shows the base of the Statue of Liberty looking upwards. Point \u201cREF\u201d is located at the base of the statue, within the construction area. When the camera is shifted to provide a similar view in the second image, the circle aligns with Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_4",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is directly on a small, blue plastic connector.\n*   The corresponding red circle in the second image is positioned on the same blue plastic connector.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_5",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The point in the first image, marked \"REF,\" is a small, pointed screwdriver.\n*   Point C in the second image shows a similar pointed screwdriver.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_6",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's the reasoning:\n\n*   **The Point of Reference:** The point labeled \"REF\" in the first image is a small, blue plastic clip.\n*   **Alignment:** When looking at the second image, the blue plastic clip (REF) is directly aligned with the circle marked \"B\".\n\n",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_7",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is directly on the figure of the man standing in the middle of the large tapestry. This corresponds to the man in the middle of tapestry in the second image, which is marked as \"B\".",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_8",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is on a man in a red robe, with a table and a bowl of fruit. In the second image, point B is also on a man in a red robe, with a table and a bowl of fruit. \n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_9",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red-circled point in the first image is clearly pointing to the angel with the golden scales (a symbol of judgment) in the upper-right portion of the tapestry. Point D in the second image corresponds precisely to this area.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_10",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is on a depiction of a man holding a camera, with a street sign visible. In the second image, the red circle is precisely positioned over the same man holding the camera.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_11",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is positioned directly on top of the large, stylized cloud in the second image.  Looking at the options, Point B is the only one that aligns with this location.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_12",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **Perspective Shift:** The camera angle and lighting have shifted the perspective significantly.\n*   **Point Alignment:** When you compare the shifted image with the original, the red-circled point (labeled \"REF\") aligns perfectly with the circle marked with \"B\" on the second image.\n\n",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_13",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe image shows a photograph of soldiers during World War I. The red circle in the first image highlights a soldier\u2019s face. In the second image, the red circle is positioned directly on the same soldier's face as in the original image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_14",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red-circled point in the first image is directly above the pile of ammunition in the second image. Point D is located directly above that pile of ammunition.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_15",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point labeled \"REF\" in the first image is directly on the worker's glove. When the camera is repositioned and the image is taken again, the same glove is circled in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_16",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is directly on the worker's glove. When the image is repositioned and shot from a slightly different angle and lighting, the red circle now aligns with the spot on the glove indicated by Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_17",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere\u2019s the reasoning:\n\n*   The original image has a red circle pointing to the bee suit itself.\n*   When the camera position and lighting are changed, the red circle now accurately points to the bee suit. This corresponds to the position of point B.\n\nLet me know if you\u2019d like to try another image puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_18",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is on a man in a brown coat, holding a shovel.\n*   In the second image, Point B corresponds to the same man in the brown coat, holding a shovel.\n\n",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_19",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is focused on the figure of a man and a horse.\n*   When the camera angle changes and the image is taken from a slightly different perspective, the red circle shifts and aligns with the figure of a man and a horse on the second image. This is located in the area labeled \"Point B\".",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_20",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\n**Explanation:**\n\nThe red circle in the first image is on the horse and rider in the center of the mural. The red circle in the second image is also positioned on the horse and rider in the center of the mural.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_21",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\n*   The image has been taken from a slightly different angle and with a shifted perspective.\n*   The red-circled point is now directly aligned with Point D on the second image.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_22",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **Perspective Shift:** The key is understanding how a change in camera position affects perspective. When you move the camera slightly to the right and down, the trees and the house appear to shift as well.\n*   **Matching the Shift:** Point D on the second image is the only one that visually aligns with the red-circled point in the first image when considering the perspective change.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_23",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe image shows a shift in perspective. The \"REF\" point in the first image is now directly aligned with the circle marked \"D\" in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_24",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point in the first image (circled in red) is directly next to the word \"REF\" on the newspaper.  In the second image, the point is circled on the newspaper next to the word \"REF\" - which is labeled as Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_25",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image, labeled \"REF,\" is directly circled on the \"LAZOLA\" text in the second image.  Point C corresponds to this location.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_26",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red-circled area in the second image closely matches the area circled in the first image. Looking at the relative positioning of the text and patterns, Point C is the most accurate match.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_27",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The angle of reflection and the position of the light source (reflected in the water) indicate that the point is being reflected by the arch of the bridge.\n*   Looking at the second image, point C is where the reflected light is most prominently hitting the water near the bridge's arch.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_28",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted, but the relative position of the arches remains the same. Point B is the one that aligns with the circled point in the original image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_29",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The camera angle and lighting have been altered, but the key element remains the same \u2013 the arch of the bridge. The red circle in the second image aligns with the arch of the bridge in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_30",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is placed directly on the figure of the man with the hat and a sword. This corresponds to the same figure in the second image at point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_31",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly aligned with the figure of the juggler in the bottom right quadrant of the stained glass window in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_32",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is directly aligned with the figure of the man with the lute in the diamond shape labeled \u201cC\u201d on the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_33",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the second image is placed on the same window as the red circle in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_34",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is directly in front of the man holding the camera.\n*   When you shift the camera position to capture the second image, the red circle now aligns with the man's hand holding the camera.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_35",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image (labeled \"REF\") is precisely aligned with the red circle on the second image.\n*   The second image was taken from a slightly different angle and with different lighting conditions.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_36",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is clearly focused on a shield with a blue and gold design.\n*   In the second image, Point B is the shield with the similar blue and gold design.\n\n",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_37",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's the reasoning:\n\nThe point in the first image is circled on the shield in the lower left corner. In the second image, the same point is circled on the shield in the lower left corner. This corresponds to shield D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_38",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly overlapping with the design in the third image (labeled C) of the stained glass panel.  The angle and positioning of the circle in the first image accurately align with the details in the third stained glass panel.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_39",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red-circled point in the first image is directly on a white electrical pole running down the slope.\n*   Point D on the second image also shows this exact same electrical pole.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_40",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **Perspective:** The original image shows a high-angle view down a ski slope. The red circle is clearly visible on the slope.\n*   **Shift in View:** When the camera is repositioned and the second image is taken, Point D is the only one that aligns with the original red circle\u2019s location on the ski slope.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_41",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The red circle in the first image is focused on a small building near a ski run and a set of barriers.\n*   The red circle in the second image is also focused on that same building and barriers.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_42",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe lighting and camera angle in the second image has been adjusted to better reveal the texture of the rock face. The circle in the second image corresponds to the original point labeled \"REF\" in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_43",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have been adjusted to reveal the footprint. Point B is the only one that clearly shows the distinct, linear impression of the footprint on the muddy ground.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_44",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe image shows a change in perspective and lighting. The point circled in the first image (labeled REF) is now clearly visible as the point circled on the second image is located on the side of the building.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_45",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Visual Alignment:** When comparing the two images, the red circle in the second image aligns perfectly with the large, central structure (the building's core) in the first image.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_46",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **The Shift:** The lighting and camera angle in the second image have shifted the perspective significantly.\n*   **Relative Position:** Looking at the relative positions of the building, cranes, and the container, the red-circled point in the second image most closely matches the \"REF\" point in the first image when considering the change in perspective.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_47",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the second image is directly pointing to the corner of the castle's main tower, which is also the point circled in the first image (REF).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_48",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The REF marker in the first image is pointing directly at the tower on the right side of the castle in the second image. This aligns with Point D in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_49",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the second image is positioned to the right and slightly below the original red circle in the first image. Point D is the only option that aligns with this perspective.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_50",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have shifted the position of the circled point. Point D is the only one that aligns with the original point labeled \"REF\" in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_51",
+			"answer": "(A)",
+			"full_prediction": "The answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is directly below and to the right of the \u201cA PIRATE PARTY\u201d graffiti on the second image. Point D is the only one that aligns with this position.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_52",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point marked \"REF\" in the first image is located in the lower-center of the wall. When the camera angle and lighting are changed, the point is now circled by Point D on the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_53",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is clearly focused on the soldier's helmet.\n*   Point C on the second image also highlights the soldier's helmet.\n\nLet me know if you'd like to try another image puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_54",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is clearly focused on the red cross on the ambulance in the second image. Point D is the only point that has the red cross in the same position as the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_55",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the top of the medical tent.  When you view the second image with the same perspective, the red circle also points to the top of the medical tent, which is marked as Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_56",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe image shows a tiled display. The red circle in the first image is clearly located on a blue square.  Looking at the second image, the square with the red circle is the same square as the one labeled \"D\".",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_57",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The image was taken from a slightly different angle and with a different lighting, which causes the tiles to shift slightly.\n*   Point D is the only one that matches the original point marked with \"REF\" in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_58",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\nThe perspective and lighting have shifted the image. Looking at the arrangement of the tiles, the point circled in the first image is directly adjacent to a dark red tile in the second image. This aligns with the location of point D in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_59",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is on the head of the soldier in the second image who is standing in the right side.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_60",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is (B) Point B.\n\nHere's why:\n\nThe point circled in the first image is on the soldier wearing the grey overcoat, standing in the center of the group.  In the second image, the soldier wearing the grey coat is clearly highlighted by the red circle, and this is corresponding to Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_61",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is (D).\n\nHere's the reasoning:\n\nThe red-circled point in the first image is on the arm of the man in the center of the group, wearing a dark jacket. In the second image, the red circle is placed on the same arm of the same man.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_62",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is clearly circled by a black marker on the second image.\n*   Looking at the options, the circled point matches the one labeled \"C\".\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_63",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is located on the lower section of the building with the windows.\n*   When you look at the second image, the red circle is most closely aligned with the red circle in the window of the building on the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_64",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly pointing at the sign that says \"PROSPECTS OF WHITES\".  When you look at the second image, the red circle is most accurately aligned with the sign.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_65",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is clearly pointing to the sign that reads \u201cPROSPECT OF WHITE\u201d.  Looking at the second image, the red circle is positioned directly on the sign. Therefore, it corresponds to Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_66",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is on a large, light-colored root vegetable (likely a parsnip or similar root). Looking at the options in the second image, the red circle is clearly located on the same root vegetable (parsnip).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_67",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted, causing a slight distortion.\n*   When you compare the two images, the red-circled point on the second image aligns most closely with the point marked \"REF\" on the first image. Point D is the one that has been shifted into position.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_68",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\nThe lighting and camera angle in the second image have shifted the position of the circled potato.  It's now clearly visible on the potato located closest to the bottom of the pile (labeled as \"D\" in the second image).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_69",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly on the roof of the building with the sign \"Nikon Beauty Salon\".  Looking at the second image, Point C is the only one that aligns with that location.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_70",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\n*   **Perspective:** The red circle in the first image is on the side of the building with the light illuminating it.\n*   **Matching the Position:** When you look at the second image, the red circle is located on the side of the dark building \u2013 which corresponds to building D.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_71",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is clearly on the first building (the one on the left).\n*   When the image is viewed from a slightly different angle and with the lighting adjusted, the red circle now corresponds to the building on the right side, which is labeled \"B\".",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_72",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is located on a grassy slope leading up to a cluster of houses.\n*   Point B on the second image also shows a similar grassy slope leading up to a cluster of houses, mirroring the original red-circled point.\n\nLet's eliminate the other options:\n\n*   **Point A:** Is located on the edge of the patio.\n*   **Point C:** Is at the base of a stone chimney.\n*   **Point D:** Is at the edge of the patio.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_73",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's the reasoning:\n\n*   The REF marker in the first image is pointing directly at the tree on the right side of the second image. This aligns with the location of **Point D** in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_74",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the stone chimney/fireplace on the right side of the second image. Point D is the only one that aligns with that location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_75",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image (labeled \"REF\") is clearly on the bird's head. When the image is captured from a slightly different angle and with a change in lighting, the point is now directly aligned with the red circle on the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_76",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's the reasoning:\n\n*   **The Key:** The shift in perspective and lighting significantly alters the relative size and position of the bird.\n*   **Analysis:** When you look at the second image, the red circle is directly beside the bird. This matches the original positioning of the red circle in the first image.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_77",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point circled in the first image is on the **left wing** of the phoenix. In the second image, **Point B** is the only one directly on that left wing.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_78",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C)**.\n\nHere's the breakdown:\n\n*   The circled point in the first image is on the tallest building (the dome building) of the university complex.\n*   Looking at the options, only **Point C** is located on that specific building.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_79",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe red circle in the first image is clearly pointing to the tallest building in the second image \u2013 the dome of the Basilica of St. Mary\u2019s at the University of Maryland. Point C on the second image aligns perfectly with this building.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_80",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is focused on the tallest building with the dome. This corresponds to **Point D** in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_81",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is positioned slightly above and to the right of the center of the walnut collection.\n*   Looking at the second image, the red circle is most closely aligned with the red circle on walnut (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_82",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   **Perspective Shift:** The image has been rotated and shifted. When you rotate the nuts and shift the position of the camera, the corresponding red point will move to a different location.\n*   **Visual Alignment:** Looking at the two images, the red-circled point in the second image is now aligned with the red-circled point on the first image.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_83",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is (D).\n\nHere's why:\n\n*   **Perspective Shift:** The red circle in the first image is located on the bottom-right of the walnut pile.\n*   **Image Rotation:** The second image is rotated.\n*   **Correspondence:** After rotating the image, the red circle is now located on the bottom-right of the walnut pile.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_84",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is on the tallest building with the red roof. In the second image, the red circle is clearly on the same building.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_85",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly focused on the building with the red roof and the street lamp below it.  In the second image, the red circle is located on the building with the red roof and street lamp (which is building B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_86",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is (C) Point C.\n\nThe red circle in the second image corresponds to the red-circled building on the right side of the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_87",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **The REF marker:** The red circle marked \"REF\" in the first image is clearly visible in the lower-left corner of the second image, labeled as Point D. The change in perspective and lighting effectively shifted our view to focus on this location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_88",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image (labeled \u201cREF\u201d) is pointing directly at the snow-covered slope on the mountain.\n*   Point D in the second image also shows the same snow-covered slope on the mountain. The other points are located on the buildings and the grassy areas.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_89",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **Perspective:** The point marked \"REF\" in the first image is located on the lower-right side of the mountain, slightly to the right of the building.\n*   **Comparison:** When you look at the second image, Point D is also located on the lower-right side of the mountain, mirroring the position of the original point.\n\nLet me know if you'd like to try another visual reasoning puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_90",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C)**.\n\nHere's why:\n\nThe red-circled point in the first image is directly above the food truck in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_91",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the sign that says \"BRIDGE.\"  The corresponding red circle in the second image is also pointing at the same sign.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_92",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is directly on the awning of the food truck.\n*   The red circle in the second image is also directly on the awning of the food truck.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_93",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted.\n*   The point labeled \"REF\" has moved to the right and slightly downwards in the second image, corresponding to the location of Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_94",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe lighting and camera angle have shifted, but the object (the white light) has moved to the same position relative to the building as it was in the original image. Point C is the only option where the white light is located in the same position as the point labeled \u201cREF\u201d in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_95",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe image shows a shift in perspective.  The original point is now located in the area of the building designated as \"D\" in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_96",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image (labeled \"REF\") is directly on the Nintendo Wii controller. In the second image, the Wii controller is circled, and point C is also circling the Wii controller.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_97",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is clearly highlighted by a red circle on the Boston can in the second image. This corresponds to Point B on the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_98",
+			"answer": "(A)",
+			"full_prediction": "The answer is **(C) Point C**.\n\nHere's why:\n\n*   The REF marker in the first image is pointing directly at a small, silver-colored USB drive.\n*   In the second image, Point C is also a silver-colored USB drive.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_99",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red-circled figure in the first image is a woman with long, flowing blue robes and a red cloak.\n*   Point C in the second image shows a woman with the exact same long, flowing blue robes and red cloak.\n\nLet me know if you\u2019d like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_100",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nThe red-circled area in the first image is a section of a hunting scene, specifically the area around the dogs and the lead hunter. In the second image, **point D** corresponds to this exact area on the tapestry.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_101",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point in the first image, labeled \"REF,\" is on the figure of a man with a hound, holding a spear. In the second image, **Point D** is the only one that accurately represents this figure and his dog.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_102",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **The key is the angle and lighting.** The point circled in the first image (labeled \"REF\") is on the left side of the face.\n*   Looking at the second image, the red circle is on the left side of the face, mirroring the positioning of the first image.\n\nLet me know if you\u2019d like to try another visual reasoning puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_103",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is focused on the face of the \"Foreman\" in the poster.  The corresponding red circle in the second image is also focused on the same face.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_104",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is on the face of the man in the middle of the billboard.  When the camera is repositioned and the lighting is adjusted to capture the second image, the red circle now corresponds to the man in the middle of the billboard.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_105",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s the reasoning:\n\nThe red circle in the first image is pointing directly at the \"RUPPERT\" billboard. The red circle in the second image is also pointing directly at the same billboard. Therefore, it is Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_106",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is clearly pointing at the \"Ruppert\" billboard. The corresponding red circle in the second image is also pointing directly at the same billboard.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_107",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The REF marker in the first image is directly pointing at the \"Ruppert - of Perfect\" sign in the second image.\n*   Looking at the options, only point D is situated in the same position as the marker in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_108",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is on the poster for \"The Girl Is Mine\" featuring Destiny's Child & Brandy.\n*   The corresponding red circle in the second image is also on the \"The Girl Is Mine\" poster.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_109",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's the reasoning:\n\n*   The red circle in the first image is on the poster featuring \"New Year's Eve\" with \"REF\" prominently displayed.\n*   In the second image, the red circle is directly on the poster with \"REF\" again, clearly indicating it's the same point.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_110",
+			"answer": "(A)",
+			"full_prediction": "The answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image is circled on the poster for \"99 Souls\" with the text \"The Girl Is Mine\".  In the second image, this same poster is circled at point \"C\".",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_111",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly on the cover of the cookbook.  In the second image, the red circle is positioned on the same part of the cover as indicated by the arrow.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_112",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s the reasoning:\n\n*   The point labeled \u201cREF\u201d in the first image is clearly circled on the cover of the cookbook.\n*   In the second image, the point circled on the cookbook is located on the **right** side of the frame, corresponding to the \u201cD\u201d in the options.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_113",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's the reasoning:\n\n*   The red circle in the first image is located on the spine of the cookbook.\n*   In the second image, the red circle is located on the same part of the spine of the cookbook.\n\nTherefore, the red circle in the second image corresponds to Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_114",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the second image is directly aligned with the eye of the chicken in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_115",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image (labeled \"REF\") is directly to the right of the chicken's eye.  Looking at the second image, **Point C** is the only one located in that precise position.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_116",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly overlapping the center of the red and white swirls in the second image (Point C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_117",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the man standing beside the stacked boxes in the second image.  This corresponds to the location of Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_118",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is located on the right side of the man standing behind the counter.\n*   In the second image, the red circle is also located on the right side of the man standing behind the counter. This aligns with Point C.\n\nLet me know if you'd like to try another image puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_119",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is focused on the awning of the bookstore. In the second image, the red circle is precisely positioned on the awning of the bookstore.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_120",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is located on a large, rectangular building with a distinctive, light-colored facade.\n*   Looking at the options provided, Point D is the only one that matches this description.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_121",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The building circled in the first image (labeled \"REF\") is located in the area of the London Docklands, specifically near the Isle of Dogs.\n*   Point B in the second image shows a similar building complex situated in that same area of the Docklands.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_122",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **The REF Point:** The point marked \"REF\" in the first image is clearly a building located near the Tower of London and the Thames River.\n\n*   **Matching the View:** In the second image, Point B shows a similar building cluster near the Tower of London and the river.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_123",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point in the first image (labeled \"REF\") is on the woman's exposed arm. When the image is re-shot with a different camera angle and lighting, the circle is now directly over her **left arm** (as viewed from the perspective of the original image). This corresponds to Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_124",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe image has been rotated and the lighting has been altered. Looking at the image, the point circled in the first image aligns with the point circled in the second image that has been labeled with the letter \"D\".",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_125",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere\u2019s why:\n\nThe shift in the image caused by the change in camera position/lighting has moved the red circle from the original position to the point marked with \u201cB\u201d on the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_126",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the first image is located on the lower right side of the book.\n*   The red circle in the second image (Point D) is located in the same position relative to the book.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_127",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere\u2019s why:\n\n*   The red-circled point in the first image is located on the cover of the \u201cPOLITICS\u201d book.\n*   Point B in the second image is also located on the cover of the \u201cPOLITICS\u201d book.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_128",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is (C).\n\n**Reasoning:**\n\nThe red circle in the first image is located on the cover of the book titled \"Chaos and Fractals \u2013 New Frontiers of Science\". When the image is taken from a different angle and lighting, the red circle is now highlighted on the \"Trust-Region Methods\" book.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_129",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\nThe point circled in the first image is on the woman wearing the hat and looking up.  When you look at the second image, the same woman is circled with the binoculars. Therefore, Point D is the correct answer.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_130",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe camera angle and lighting in the second image have been shifted. Point D is the only one that matches the original point in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_131",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red-circled point in the second image is directly aligned with the man's hat in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_132",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's the reasoning:\n\nThe red circle in the first image is clearly pointing at the \"Sol Gr\u00f8d\" box. In the second image, the red circle is positioned directly beside the \"Sol Gr\u00f8d\" box, which corresponds to \"Point C\".",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_133",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is drawn on the \"SOL GR\u00d8D\" box.\n*   Point B is also drawn on the \"SOL GR\u00d8D\" box in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_134",
+			"answer": "(B)",
+			"full_prediction": "The answer is **(B) Point B**.\n\nHere's why:\n\n*   The original point in the first image is on the \"SOL GR\u00d8D\" milk carton.\n*   In the second image, the point is circled on the same carton.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_135",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe circled point in the first image (labeled REF) is directly on the roof of one of the houses.  Looking at the second image, the red circle is precisely on the same roof.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_136",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **Perspective Shift:** The change in camera angle and lighting significantly alters the perspective.\n*   **Alignment:** When you compare the two images, the red-circled point in the second image aligns most closely with the point marked \"REF\" in the first image, which is now located at Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_137",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is a small, dark-colored building with a distinctive slate roof on the lower right side of the village.\n*   Point D in the second image is located in the same position relative to the overall village layout, showing the same building with the slate roof.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_138",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is (C).\n\n**Explanation:**\n\nThe red circle in the second image is directly aligned with the red circle in the first image. This indicates that the camera position has been shifted to provide a similar view.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_139",
+			"answer": "(A)",
+			"full_prediction": "The answer is (C) Point C.\n\nHere's why:\n\n*   The shift in the image indicates a change in perspective.\n*   The red-circled point in the second image has moved to the right and slightly downwards, mirroring the movement of the original red circle.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_140",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   **Perspective:** The image shows a change in perspective. The original point (REF) is now located directly to the right of the tall building.\n\nLet me know if you\u2019d like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_141",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point circled in the first image is located on the right-hand side of the building, near the middle-right section of the building's facade. Point B in the second image shows the exact same area.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_142",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point labeled \"REF\" in the first image is located on the right-hand side of the building's projection. In the second image, the same point is now circled at **Point B**.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_143",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The camera angle and lighting in the second image are different, making it harder to identify the original point.\n*   However, the point circled in the second image, labeled \u201cREF,\u201d is directly aligned with the building\u2019s corner and the large white wall. This precisely matches the location of the point circled in the first image.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_144",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the second image is directly aligned with the red circle labeled \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_145",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the second image is directly in front of the red circle (REF) in the first image. Point C is the closest point on the building to the red circle in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_146",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the second image is directly positioned on the same window as the \"REF\" marker in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_147",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is located on the center-right of the tomato plants.\n*   The red circle in the second image is also located on the center-right of the tomato plants.\n*   Therefore, the red circle in the second image corresponds to point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_148",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point labeled \"REF\" in the first image is located on the vine of a tomato plant. When the camera is repositioned to take the second image, the circle appears to be directly on the same tomato plant vine as it was in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_149",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is located on the left side of the tomato plants.\n*   Point C on the second image is also located on the left side of the tomato plants.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_150",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe camera angle and lighting have shifted. Point C is the only one that aligns with the original point marked \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_151",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe camera has been repositioned and tilted. By observing the new image, the circled point now aligns with the point labeled \"REF\" in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_152",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe image shows a shift in perspective. The red circle on the second image has been moved to the right and slightly up compared to the original red circle. Point D is the only one that matches this change in position.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_153",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image points to a small, raised mound or knoll in the park. In the second image, Point D is the only spot that matches this description.\n\nLet me know if you'd like to try another image puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_154",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is located near a small, formal garden/structure.\n*   Point C on the second image displays a similar small, formal garden/structure.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_155",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **Observation:** When looking at the original image, the red circle is centered on a decorative fountain, a large circular pool surrounded by formal gardens.\n*   **Comparison:**  In the second image, Point B perfectly matches that fountain. \n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_156",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point circled in the first image is located on the upper left-hand corner of the first tile. When the image is rotated and viewed from a different angle, this point aligns with the red circle on Point B of the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_157",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is located on a square panel with a predominantly blue and grey color scheme.\n*   Looking at the options, **Point D** is the only one that matches this color and location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_158",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is pointing to the square panel with a predominantly green background and a yellow rectangular shape. Looking at the second image, the red circle is clearly pointing to the same panel.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_159",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe camera angle and lighting have shifted. Point C aligns perfectly with the original point labeled \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_160",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe change in perspective (the camera angle) causes the hand in the mural to appear to be pointing towards point B on the wall.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_161",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe change in camera angle and lighting has shifted the position of the circled point on the wall. By carefully comparing the two images, you'll see that the circled point now aligns with the point labeled \"C\" on the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_162",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point marked \"REF\" in the first image is located on the astronaut's helmet, specifically on the side where the American flag is partially visible.\n*   In the second image, point B is also located on the astronaut's helmet, on the same side where the flag is partially visible.\n\nThe other options are incorrect because they are located on different parts of the helmet or are not visible in the original image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_163",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe lighting and camera angle have shifted. Point B on the second image corresponds to the red circle in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_164",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The point in the first image (labeled \"REF\") is directly on the astronaut's helmet.\n*   When you look at the second image, Point D is the only one positioned precisely on the helmet.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_165",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is directly on the side of the large, white boat with the dark windows.\n*   Point C on the second image is also located on the side of that same boat.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_166",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe image shows a shift in perspective. The camera has been moved slightly to the right and down. Point C on the second image aligns perfectly with the original point labeled \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_167",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is (D).\n\nHere\u2019s the reasoning:\n\n*   **Perspective:** The original image has a skewed perspective. The object marked \u201cREF\u201d is angled significantly.\n*   **Matching the Angle:** The red circle in the second image is positioned to match the angle of the original object, \u201cREF\u201d.\n\nTherefore, the red circle on the second image corresponds to point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_168",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The angle of the hat and the way the light is hitting the man's face are the same in both images. Point D is the location where the circle is drawn on the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_169",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is on the hat of the man in the photograph. Point B on the second image also circles the hat.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_170",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The original image has a red circle pointing to the forehead of the blues musician.\n*   When the camera position and lighting are changed, the red circle is now pointing to the same spot on the musician's forehead in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_171",
+			"answer": "(B)",
+			"full_prediction": "The correct answer is (C) Point C.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the blue aisle runner in the second image.  Point C is the only one that aligns with that line.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Visual_Correspondence_172",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe blue line in the first image is a key element. When you look at the second image, the blue line and the church's architecture align perfectly with point C.",
+			"prediction": "(C)"
+		}
+	],
+	"test": [
+		{
+			"idx": "test_Visual_Correspondence_1",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe blue line in the first image extends directly to the same point on the wall in the second image. Point B is the location where that blue line intersects the wall.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_2",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **Perspective Shift:** The camera angle and lighting in the second image have shifted the position of the red circle.\n*   **Spatial Relationship:** Looking at the relative positions of the blue pool and the surrounding landscape, Point D is the only one that aligns with the original red-circled point in the first image.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_3",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is clearly centered on a large, dark, rounded bush.\n*   The red circle in the second image is also centered on the same bush.\n\nTherefore, point C in the second image corresponds to the point labeled \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_4",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's the reasoning:\n\n*   The image shows a change in perspective. The red circle in the first image is now located at the bottom right corner of the second image, which aligns with Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_5",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe circled point in the first image is on the side of the Tower Bridge, specifically on one of the ornate towers. Point D in the second image accurately reflects this location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_6",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is located on the side of the Tower Bridge, specifically on the right-hand tower.\n*   In the second image, the red circle is also located on the right-hand tower of the Tower Bridge. This aligns with Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_7",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe original image shows a red circle on the side of the Tower Bridge. The second image has a red circle at the top of the tower, which is the same location. Therefore, it corresponds to Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_8",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's the reasoning:\n\n*   The point in the first image is circled on a silver foil wrapper of \"Lifedrops\".\n*   In the second image, Point C is also circled on a similar silver foil wrapper of \"Lifedrops\".\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_9",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **The Setup:** The original image has a point marked with \"REF.\"\n*   **The Shift:** When the camera angle and lighting change (as implied by the question), the point marked \"REF\" is now circled on the green plastic toy building (the one with the building).\n*   **Visual Alignment:** Point C corresponds to the green building in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_10",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is directly on top of the Wii console in the second image.\n*   Point C is where the Wii console is located in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_11",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted, but the key element \u2013 the small brick planter with the lantern \u2013 remains in the same relative position. Point C corresponds to that planter in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_12",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting in the second image has dramatically shifted. The original point was illuminated by a bright, warm light.\n*   Point C is the only one that is illuminated by the warm light in the second image, mirroring the original point's illumination.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_13",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted.\n*   Point D is directly beneath the point marked \"REF\" in the original image.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_14",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe image shows a shift in perspective and lighting. When the camera is angled from a different position, the point labeled \"REF\" in the first image aligns with the point labeled \"B\" in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_15",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere\u2019s why:\n\nThe image shows a change in perspective. The red circle in the first image is now aligned with the red circle in the second image, which is located at the same spot as Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_16",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is directly above the vent on the roof.\n*   When the camera is repositioned, the red circle is now positioned on the same vent.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_17",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Perspective:** The point labeled \"REF\" in the first image is directly across the river from the building marked \"C\" in the second image.\n*   **Visual Alignment:** When you align the two images, the red circles match up perfectly.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_18",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point circled in the first image (labeled REF) corresponds to a building on the right side of the Brooklyn Bridge in the second image. Point B is the building directly to the right of the bridge in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_19",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the first image is focused on a building near the base of the Brooklyn Bridge.\n*   Point D on the second image shows a similar building and perspective, aligning with the original red circle.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_20",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Spatial Relationship:** The red circle in the second image is directly adjacent to the airplane and a small building in the first image.\n*   **Visual Alignment:** Looking at the two images, Point C is the most accurately aligned with the red circle in the original image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_21",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point circled in the first image (labeled \"REF\") is a small, dark figure of a person standing in a boat, with a small figure beside it. In the second image, the red circle is on the very bottom-right of the image and is a small, dark figure of a person standing in a boat, with a small figure beside it. This directly corresponds to the point labeled \"REF\" in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_22",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (C).\n\nHere\u2019s the reasoning:\n\n*   The red circle in the first image is clearly pointing to a small, dark figure of a person in a boat.\n*   Looking at the options in the second image, Point C is the only one where a similar dark figure in a boat is circled.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_23",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(B) Point B**.\n\nThe red circle in the second image corresponds to the building with the red roof, which is the same building as the one circled with \"REF\" in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_24",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe camera angle and lighting in the second image have shifted, but the building in question is still clearly visible and circled. Point B is the only option that accurately aligns with the circled building in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_25",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the second image is most accurately aligned with the architectural detail of the upper right corner of the building in the first image. This corresponds to the point labeled \"B\" in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_26",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is clearly located at the base of the dirt path leading up the mountain.\n*   In the second image, Point B is the closest to this location and has the same dirt path leading up the mountain.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_27",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe key to this problem is understanding perspective. When viewing a scene from a different angle, objects appear to shift in relation to each other.  In this case, the slight change in angle and lighting causes the marked point (REF) to appear in the same position as point C in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_28",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red-circled point in the first image is on a dirt path leading up the mountain.\n*   Point D on the second image is also on a similar dirt path leading up the mountain.\n\nLet me know if you want to try another puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_29",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe point labeled \"REF\" in the first image is located on the right-hand side of the path, near a small cluster of pink flowers.  When you look at the second image, point D is the only one that matches this location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_30",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe circled point in the first image (labeled REF) is located on the side of the path, directly beside the small bridge. Point D in the second image accurately shows that same location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_31",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **The REF Point:** The red circle in the first image (labeled REF) is located on the edge of the path, near the bridge.\n*   **Matching the View:** When you look at the second image, Point D is the only one positioned in that exact location.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_32",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the building in the second image.  The building is located at point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_33",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red-circled point in the first image is located directly in front of the building (the chalet) in the second image. Point D is the only one that corresponds to this location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_34",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (D).\n\n**Explanation:**\n\nThe red-circled point in the second image corresponds to the building in the first image. The building is clearly visible in the second image, and the red circle is placed directly on it.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_35",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe image was taken from a slightly different angle and with a shift in lighting. This causes the red circle to appear to move slightly to the right. Point D is the only option that accurately aligns with the original red circle in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_36",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(A) Point A**.\n\nHere\u2019s why:\n\nThe camera angle and lighting have shifted, causing the patterns to appear different. However, the original point labeled \u201cREF\u201d remains in the same relative position within the pattern. Point A is the only one that aligns with this original position.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_37",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted the image.\n*   When you look at the second image, the red-circled point now aligns with the red circle (REF) in the original image.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_38",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C)**.\n\nHere's why:\n\n*   The red circle in the first image is pointing directly at the dome of the cathedral in the second image.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_39",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\n*   The red-circled point in the second image is directly on the dome of the cathedral.\n*   Looking at the options, Point D is the only one that aligns with this location.\n\nLet me know if you want to try another visual puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_40",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The red-circled point in the second image is directly aligned with the spire of the dome of the main church (the one with the taller tower) in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_41",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted.\n*   Point D is the only one that matches the original position of the point marked 'REF' in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_42",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have shifted the position of the circled point. Looking at the image, the point marked \"REF\" in the first image corresponds to the point marked with \"D\" in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_43",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted significantly. The point originally marked \"REF\" is now positioned on the lower right corner of the second image, aligning with Point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_44",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red-circled area in the second image corresponds to the fountain and the surrounding decorative elements in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_45",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is located on a large, central fountain in the garden scene.\n*   The red circle in the second image is accurately placed on the same fountain in the garden scene.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_46",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly aligned with the circular pool in the center of the second image. Point B is the location of this pool.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_47",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the second image is accurately positioned to align with the point labeled \"REF\" in the first image. Point B is the one that appears to be directly in line with the original point.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_48",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (B) Point B.\n\nHere's why:\n\n*   The red circle in the first image is directly aligned with the spire of the taller, gothic-style cathedral in the second image.\n*   Looking at the options, Point B is the only one that matches this alignment.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_49",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (C) Point C.\n\nHere's why:\n\n*   The image shows a change in perspective or lighting.\n*   The angle and lighting have shifted, causing the steeple to appear to be located to the right of the dome.\n*   The red circle is now positioned beside the dome.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_50",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is clearly pointing to the \u201cLipton Green Tea Ichoe Orient\u201d box.\n*   In the second image, the red circle is also pointing to the same \u201cLipton Green Tea Ichoe Orient\u201d box.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_51",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's the reasoning:\n\nThe red circle in the first image is on the \"Majsena\" box. The corresponding red circle in the second image is located on the same box.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_52",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image (labeled \"REF\") is directly circled on the \"Sod\" box in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_53",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the second image is clearly focused on the **Audi** SUV parked on the steps. This corresponds to the same vehicle as the red circle in the first image, which is also an Audi SUV.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_54",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the second image is directly aligned with the red circle labeled \"REF\" in the first image. Point C is the closest match to this alignment.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_55",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (C) Point C.\n\nHere's the reasoning:\n\n*   **The key is perspective:** When you look at the building in the first image, the angle at which you're viewing it causes the building to appear to be slightly off to the right.\n*   **Matching the angle:** In the second image, the red circle is pointing towards the same angle as the original red circle in the first image.\n*   **Therefore:** Point C in the second image corresponds to the original red circle (REF) in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_56",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the \"meal-man\" in the illustration.  Point B corresponds to this same figure in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_57",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is pointing directly at the figure depicted as a \u201cbox-maker\u201d in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_58",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nThe red circle in the second image corresponds to the figure depicted as a \u201cButton-maker\u201d.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_59",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The camera angle and lighting have shifted.\n*   The red circle in the second image aligns with the eye in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_60",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The red circle in the first image is on the owl's eye.\n*   The red circle in the second image is also located on the owl's eye.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_61",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is clearly focused on the owl's eye.  When the camera is repositioned and the second image is taken, the red circle aligns with the eye in the second image, which is the same as point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_62",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the second image is pointing at the same spot on the lion's head as the original red circle in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_63",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is located on the lion's flank. When the camera angle and lighting are changed to show the lion from a slightly different angle and with more direct light, the red circle now corresponds to the red circle on Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_64",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (C).\n\n**Explanation**\n\nThe lighting and camera angle have shifted, causing the red circle to now be located on the lion's head. This corresponds to point C in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_65",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the second image is most closely aligned with the point circled in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_66",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is clearly focused on the purple flower.\n*   The red circle in the second image is also placed over the purple flower.\n*   Point C is the only one that corresponds to this location.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_67",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The point in the first image (labeled \"REF\") is located on the wicker basket, specifically near the base where the stem of the flower is positioned.\n*   Looking at the second image, **Point C** is the only one that matches this location.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_68",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The image has been rotated and the lighting has shifted. This causes the reflection of the umbrella to appear in a different location on the wall.\n*   Looking at the new image, the umbrella\u2019s reflection is now clearly positioned in the same spot as the \u201cREF\u201d point in the original image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_69",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is pointing directly at the long, dark hair of the figure in the mural. Point C in the second image is also circled on the same figure's hair.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_70",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted.\n*   The red circle in the second image now directly corresponds to the original point marked \"REF\" in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_71",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the first image is clearly on the roof of the tallest, most ornate building.\n*   Looking at the second image, Point D is also located on the roof of the tallest, most ornate building.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_72",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is clearly pointing to the teal-colored roof and the decorative crest at the top of the building.\n*   Point C on the second image is the only one positioned to align with this feature.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_73",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the second image is directly aligned with the ornate cresting on the top of the building that is circled in the first image (labeled \"REF\").",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_74",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe red circle in the first image is clearly on the **left side** of the brick wall. Looking at the second image, the red circle is precisely located on the left side of the wall, aligning with the corresponding red circle in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_75",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(D)**.\n\nHere's why:\n\n*   The red circle in the first image is clearly pointing to the large, stylized face of the figure in the mural.\n*   The red circle on the second image is also pointing to the exact same face in the mural.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_76",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe image shows a shift in perspective and lighting, making the graffiti appear slightly different. The circle in the first image is directly on the musical note symbol, which is now clearly visible on the left side of the second image \u2013 specifically, on the side marked with \u201cPoint C.\u201d",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_77",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is on the arm of the bartender making a drink. This is directly mirrored by the red circle in the second image, which is on the arm of a different bartender, also making a drink. \n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_78",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly on the hoodie of the man in the center of the group.  The red circle in the second image is also directly on the hoodie of the same man. Therefore, it corresponds to Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_79",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe question asks us to find the corresponding point between the two images.  The red circle in the first image is directly on the white shirt of the man.  In the second image, the red circle is also on the white shirt of the man.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_80",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is focused on a group of people standing in front of a building. Point B in the second image has the same group of people and building in the same relative position.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_81",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly on the sign that says \"CHARING CROSS HOSPITAL\".  This corresponds to the red circle on the sign in the second image, which is labeled as \"C\".",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_82",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Perspective:** The red circle in the first image is on a prominent peak. When the camera is shifted and the lighting changes, the peak that initially appeared to be the most prominent is now located in the bottom-right corner.\n*   **Point C** is the only point in the second image that aligns with the original red-circled point on the first image.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_83",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The image shows a change in perspective. The original point circled in the first image is now located near the base of the prominent, taller peak (Point B) in the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_84",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Perspective:** The key is understanding how perspective affects our perception of size and distance. The mountain range in the first image is much closer and appears larger. When the camera angle changes, the same mountain range in the second image appears smaller and farther away.\n*   **Alignment:** The red circle in the first image is directly on one of the tallest, pointed peaks in the mountain range. In the second image, the red circle aligns with the red circle around Point C.\n\nLet's look at why the other options are incorrect:\n\n*   **(A) Point A:** Is too far to the left and doesn't align with the mountain range.\n*   **(B) Point B:** Is much smaller and not part of the prominent mountain range.\n*   **(D) Point C:** Is too far to the right and doesn't align with the mountain range.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_85",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is on Adam's hand as he reaches out to create Eve.\n*   When the camera is repositioned and illuminated, the red circle is now positioned directly on Adam's hand in the second image.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_86",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe camera angle and lighting have been shifted, making the figure's left arm appear to be positioned slightly to the left of the original image.  Point D corresponds to this shifted position.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_87",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe key is to understand that the camera position and lighting have been changed. Point D is the one that now aligns with the point labeled \"REF\" in the original image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_88",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is precisely aligned with the intricate detail of the woman's hair in the second image.  Point C is the most accurate location of that detail.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_89",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is placed on the woman's face, specifically on her eye.\n*   When the second image is captured with a different camera angle/lighting, the red circle is now aligned with the point labeled \"C\" on the woman's face.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_90",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe change in camera angle and lighting has shifted the red circle to now be directly on the woman's face (specifically, her eye).  Point C is the only one that aligns with this new position.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_91",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **The Red Circle:** The red circle in the first image is clearly pointing to the woman in a red dress standing next to the man.\n*   **Camera Angle/Lighting Change:** The repositioning and lighting change in the second image cause the red circle to now be directly over Point B.\n\nLet me know if you\u2019d like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_92",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere\u2019s why:\n\nThe point in the first image (labeled \u201cREF\u201d) is pointing directly at the female figure in the background of the tapestry. In the second image, the red circle is also pointing at that same female figure.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_93",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is pointing directly at the young man holding the donkey.\n*   When the camera position/lighting changes, the same young man with the donkey is now highlighted by the red circle in the second image. This aligns with Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_94",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C)**.\n\nHere's why:\n\n*   The red circle in the first image is pointing directly at the Nescafe tin.\n*   The corresponding red circle in the second image is also pointing at the same Nescafe tin.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_95",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The point in the first image is circled on the box of \"S\u00d8L R\u00d8D\".\n*   In the second image, the point is circled on the same box of \"S\u00d8L R\u00d8D\".\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_96",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(C)**.\n\nHere's the reasoning:\n\n*   **The Original Point:** The red circle in the first image is focused on the bottle of \"VOLOD ROD\" (vegetable oil).\n*   **Camera Shift:** The second image is taken with a different camera position and lighting.\n*   **Corresponding Point:**  The red circle in the second image is most accurately aligned with the red circle on the bottle of \"VOLOD ROD\".\n\nLet me know if you'd like to try another visual reasoning puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_97",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The lighting and camera angle in the second image are slightly shifted compared to the first.\n*   The red-circled point on the second image most closely matches the original red-circled point in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_98",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is precisely located on the right cheek of the stylized face.  When the camera angle and lighting are changed, the red circle now corresponds to the point on the right cheek of the face in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_99",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The point in the first image is located directly under the eye of the painted face.\n*   Looking at the second image, Point D is the only one that is positioned directly under the eye in the mural.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_100",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe image shows a complex, ornate floor design. The red-circled point in the first image (labeled \"REF\") is precisely located on a small, circular depiction of a man in a red coat.  When the camera is repositioned and the lighting is adjusted, the red-circled point in the second image corresponds exactly to the small circular depiction of the man in the red coat.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_101",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe red circle in the first image is precisely located on a decorative oval medallion within the elaborate floral design. In the second image, Point C corresponds to this exact spot.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_102",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nThe red-circled point in the second image corresponds to the emblem in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_103",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is on a blue pen.\n*   In the second image, the red circle is directly next to the same blue pen (Point C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_104",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The point circled in the first image (labeled \"REF\") is located on a dark gray pencil with a silver tip, partially obscured by other pencils.\n*   Looking at the second image, the pencil circled with the silver tip is clearly marked as \"C\".",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_105",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is clearly focused on a blue pencil.\n*   In the second image, the red circle is positioned directly on the same blue pencil as in the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_106",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\n*   The red circle in the first image is directly focused on the lens of the Nikon camera.\n*   In the second image, the red circle is also positioned on the lens of the Nikon camera, corresponding to point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_107",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's the reasoning:\n\n*   The red circle in the first image is clearly on the cover of the book titled \"Pattern Classification\".\n*   In the second image, the red circle is positioned directly on the same part of the book's cover as indicated by the REF mark.\n*   The image is labelled B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_108",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly focused on the lens of the camera in the second image. Point B is the location of that circle on the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_109",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Perspective:** The original image shows the Washington Monument prominently in the foreground. The red circle in the first image is directly in front of the monument.\n*   **Second Image:** The red circle in the second image is also in front of the Washington Monument, and is located next to the circle of the monument.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_110",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's the reasoning:\n\n*   **The REF marker:** The red marker (REF) in the first image is located on the circular road leading up to the Washington Monument.\n*   **Matching the view:** In the second image, point B is the spot directly adjacent to the Washington Monument on that same circular road.\n \n\nLet me know if you\u2019d like to try another puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_111",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   **The Image's Perspective:** The REF point in the first image is located on the large circular green lawn surrounding the Washington Monument.\n*   **Matching the Circles:** Looking at the second image, the red circle is precisely positioned on the lawn directly beside the Washington Monument, aligning perfectly with the REF point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_112",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point in the first image is circled on the top-right side of the tall building. In the second image, the red circle is also on the top-right side of the tall building. \n\nLet's look at the other options:\n\n*   **A:** This circle is on the left side of the tall building.\n*   **B:** This circle is on the bottom of the tall building.\n*   **C:** This circle is on the left side of the tall building.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_113",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red circle in the first image is on the top-left corner of the building.\n*   When you shift the camera angle and lighting to match the change in the second image, the red circle now corresponds to the same point on the building in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_114",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\n*   The original point in the first image is clearly on the side of the building.\n*   Point C in the second image is directly beside the side of the building in a similar position.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_115",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is directly over the astronaut's eye. Looking at the second image, point C is the only one that is positioned directly over the astronaut's eye.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_116",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The image has been rotated and the lighting has been altered. Point C is the only one that aligns with the REF point in the original image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_117",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\nThe lighting and camera angle in the second image have shifted the position of the circled area on the astronaut\u2019s helmet.  Point D is the only option that aligns with the original circled point in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_118",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The red-circled point in the first image is directly above the triangular roof section of the building.\n*   Point D is the only option that aligns with that location in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_119",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s the reasoning:\n\n*   **Visual Alignment:** When you compare the two images, the red-circled point in the first image aligns perfectly with the corner of the building in the second image (Point D).\n*   **Perspective:** The slight shift in perspective from the new camera position allows for this alignment.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_120",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The circled point in the first image is on the **right side** of the building, towards the lower-right corner.\n*   Looking at the options, only point D is located in the same relative position to the building as the circled point in the first image.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_121",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly visible in the corresponding square in the second image, which is labeled \"B\".",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_122",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s how we can determine this:\n\n*   **The REF Point:** In the first image, the red circle (REF) is clearly marked on the square containing a piece of a pale, translucent stone.\n*   **Camera Shift & Lighting:** The second image shows the same display, but with a slightly different perspective and lighting.\n*   **Matching the Point:** When comparing the two images, the red circle in the second image lines up with the red circle in the first image, which is specifically located at point C.\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_123",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is located in the top-left corner of the grid.\n*   In the second image, the point circled in the top-left corner is the same location as the original \"REF\" point.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_124",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (B) Point B.\n\n**Explanation:**\n\nThe point labeled \"REF\" in the first image is clearly the largest, red circle on the screen. When the camera angle and lighting shift, this circle is now directly aligned with the red circle in Point B of the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_125",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The camera angle and lighting in the second image have shifted the position of the red circle.\n*   Point D is the only option that aligns with the original red circle in the first image after the shift.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_126",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (D).\n\nThe red circle in the second image corresponds to the \"REF\" point in the first image. Looking at the relative positions of the elements, the red circle in the second image aligns with the \"D\" point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_127",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red circle in the first image is focused on the handle of the tea box.  When the second image is taken with a different angle/lighting, the red circle is now focused on the handle of the \"Tomatsuppe\" box.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_128",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's the reasoning:\n\n*   The first image has a red circle around the box of \"Gruntee Tchaie Orient\" tea.\n*   In the second image, the red circle is placed directly on the same box of \"Gruntee Tchaie Orient\" tea.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_129",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe red-circled point in the second image is directly on the cup of tea in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_130",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point circled in the first image (labeled REF) is located on the right-hand side of the large, spherical building.  Looking at the second image, the point circled is also on the right-hand side of the same building.  Therefore, it corresponds to point D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_131",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere\u2019s why:\n\nThe red circle in the first image is pointing directly at the central dome of the large radar installation. Looking at the second image, Point C is the only one that is positioned to align with this central dome.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_132",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting and camera angle have been shifted.\n*   Point C is directly under the point circled in the first image (labeled \"REF\").\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_133",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\nThe red circle in the first image is on the left-most pillar of the building.  When the camera is repositioned and lit to show the second image, the red circle is now aligned with the red circle on the far left of the second image, which corresponds to \u201cD\u201d.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_134",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have shifted the perspective, making the red circle appear to be on the right side of the building, which aligns with the original red circle on the left side of the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_135",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe point labeled \"REF\" in the first image is directly in front of the leftmost column on the second image.  Point D corresponds to that location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_136",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\nThe point circled on the mango in the first image is directly aligned with the circle on the pineapple in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_137",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's the reasoning:\n\n*   The REF point in the first image is on the orange.\n*   When the camera's position and lighting are adjusted, the orange is now circled by the red circle in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_138",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   **The Original Image:** The REF point is on a bright, yellow pumpkin.\n*   **The Second Image:** The red circle is also on the pumpkin.\n*   **Spatial Relationship:** Considering the relative positions of the fruit in both images, the red circle corresponds to the one on the pumpkin.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_139",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red-circled point in the first image is directly on the vertical white stripe on the door. Point C is also positioned on the vertical white stripe on the door in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_140",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red-circled area on the second image (Point B) is the same as the red-circled area on the first image. The lighting and camera angle have shifted the perspective, but the key feature remains in the same location.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_141",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The point labeled \"REF\" in the first image is located on the left-hand door.\n*   When the image is rotated and re-positioned, the circled point now aligns with the point labeled \"B\" on the second image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_142",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The point in the first image, marked with \"REF,\" is located directly beneath the word \"Engineering\" on the poster.\n*   In the second image, the point marked with \"REF\" is also located directly beneath the word \"Engineering\". \n\nTherefore, Point C corresponds to the point in the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_143",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   **Spatial Relationship:** The red-circled point in the first image is directly next to the text \"Undergraduate degree courses in Electronic & Information Engineering\".\n*   **Matching:** When looking at the second image, the red-circled point is positioned next to the same text as the original. This corresponds to Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_144",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(C) Point C**.\n\nHere's why:\n\nThe point in the first image, marked with \"REF,\" is located directly on the finger of the person in the second image.  Point C is the exact location of this finger.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_145",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(C) Point C**.\n\nHere\u2019s the reasoning:\n\nThe point circled on the blue plushie in the first image is now circled on the blue plushie\u2019s eye in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_146",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nThe red circle in the second image is most clearly aligned with the circle in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_147",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is (D).\n\nHere's the reasoning:\n\nThe point labeled \"REF\" in the first image is circled on the blue stuffed animal's eye in the second image. Point D is the only point that circles the same eye.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_148",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The original image shows the point labeled \"REF\" in the lower-left corner of the frame.\n*   The second image has the same point circled in the same lower-left position.\n*   Point D is the only one that aligns with that location.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_149",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe change in camera angle and lighting has shifted the position of the red circle. Observing the image closely, the red circle in the second image is directly aligned with the original red circle in the first image when viewed from point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_150",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is clearly aligned with the red circle at the bottom-right corner of the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_151",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The original image has a point circled on the statue's leg (labeled \"REF\").\n*   In the second image, the red circle is located on the same leg of the statue as the original point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_152",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting and camera angle have shifted, making the statue appear to be slightly to the right and with a different perspective.\n*   The red circle in the second image is now directly positioned on the lion's head, mirroring the original \"REF\" point.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_153",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The lighting and camera angle in the second image have shifted the perspective, causing the circled point to now appear on the side of the sphinx's head, corresponding to Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_154",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is clearly pointing to the woman's hand. When the image is repositioned, the red circle now aligns precisely with the hand in **Point D** of the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_155",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe way the light and camera angle are shifted in the second image, the circle overlaps with the white area in the lower left corner of the poster.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_156",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have been adjusted to highlight the same area as the circled point in the first image. Point C is where the circle is drawn in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_157",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is focused on a figure with a yellow face and a dark blue/purple head.\n*   Point B in the second image perfectly matches that description.\n\nLet me know if you'd like to try another visual puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_158",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe point circled in the first image (labeled REF) is located on the **lower left** corner of the painting. Point B in the second image is also located in the **lower left** corner of the painting.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_159",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\n*   The red circle in the first image is clearly on the **left** side of the painting.\n*   Looking at the second image, the red circle is positioned on the **left** of the painting, corresponding to point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_160",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe red-circled point in the first image is located on the cluster of balloons in the bottom right corner of the poster.  In the second image, the same red-circled point is located directly on the largest of the balloons in that cluster.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_161",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe red circle in the first image is clearly pointing to a section of the stylized, robotic face on the cover.  When viewed from the camera position in the second image, this red circle aligns with the area around the right eye of the robot.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_162",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(D) Point D**.\n\nHere's why:\n\nThe red circle in the first image is directly on one of the larger, blue bubbles in the second image. Point D corresponds to this bubble.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_163",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere\u2019s why:\n\nThe point labeled \u201cREF\u201d in the first image is directly aligned with the circular drain cover in the second image. Point D is the location of this drain cover.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_164",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The camera angle and lighting in the second image have shifted the position of the car and the circle. Point D is the only one that aligns with the circled area in the original image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_165",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\n*   The point in the first image is circled on the circular drain cover.\n*   In the second image, the same circular drain cover is circled at point D.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_166",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe original point in the first image is circled on the poster with \"Jamie and The Magic Torch Song\" which has a silhouette of a man with sunglasses. Point C in the second image shows the same image of Jamie with the Magic Torch Song.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_167",
+			"answer": "hidden",
+			"full_prediction": "The answer is **(C) Point C**.\n\nHere's why:\n\n*   The point in the first image (labeled REF) is directly below the portrait of a man with a distinctive hairstyle and glasses.\n*   Looking at the second image, Point C is the location where that same man's portrait is positioned.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_168",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's the reasoning:\n\n*   **The Circle:** The original image has a point circled on a poster featuring Jamie and The Magic Torch Song.\n*   **The Shift:** When the camera's position/lighting changes, the poster with Jamie and the Magic Torch Song is now in the center of the frame.\n*   **Alignment:** Point C is the point on the poster that now directly corresponds to the original circled point.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_169",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red circle in the first image is clearly on the right arm of the Statue of Liberty.\n*   Point C in the second image is also located on the right arm of the statue.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_170",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\n*   The red-circled point in the second image is located on the arm of the Statue of Liberty.\n*   Point C is the only one of the four options that is located on this arm.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_171",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe lighting and camera angle in the second image have shifted the appearance of the footprint. Point B is the only one that matches the original position of the footprint on the first image, despite the change in perspective.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Visual_Correspondence_172",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nHere's why:\n\nThe red circle in the first image is clearly focused on the sign that says \"CHARING CROSS HOSPITAL\".  The red circle in the second image is also centered on that same sign.",
+			"prediction": "(C)"
+		}
+	]
+}

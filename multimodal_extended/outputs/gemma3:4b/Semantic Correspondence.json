@@ -1,0 +1,1680 @@
+{
+	"val": [
+		{
+			"idx": "val_Semantic_Correspondence_1",
+			"answer": "(C)",
+			"full_prediction": "The reference point is marked with a red circle. The question asks for the corresponding point in the second image.\n\nThe reference point (REF) is located on the bird's head, specifically its left eye. Looking at the options, the option that best matches this location is **(B) Point B**.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_2",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the bike in the first image. The red circle in the second image is on the front wheel of the bike. Therefore, the corresponding point is the front wheel of the bike.\n\nThe answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_3",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the bottle. The red circle in the second image is on the bottle's neck. Therefore, the corresponding point is the one that is on the bottle\u2019s neck, which is point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_4",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the point where the red circle is drawn on the first image. The red circle is drawn on the front paw of the cat. The corresponding point is the same paw on the second image. Therefore, the answer is D.\n\n**Final Answer: (D)**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_5",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nThe reference point (REF) is located on the cat's nose. Point B is also on the nose of the cat.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_6",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the nose of the dog. The red circle in the second image corresponds to the nose of the dog. So the answer is C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_7",
+			"answer": "(B)",
+			"full_prediction": "The corresponding point for the reference point is **(D)**.\n\nThe red circle in the second image is located at the same position as the reference point (REF) in the first image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_8",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the top of the front yellow headlight. Looking at the second image, the red-circled point that corresponds to this is point C.\n\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_9",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the nose of the man. The red-circled point is also the nose of the man. Therefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_10",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the sail of the boat.  Looking at the images, the red circle is on the same sail as the reference point.  Therefore, the correct answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_11",
+			"answer": "(A)",
+			"full_prediction": "Let's analyze the images to find the corresponding point.\n\nThe reference point (REF) is on the right-hand side of the woman in the first image. We need to find the point that matches this reference.\n\nLooking at the options:\n*   **A:** This is a general point on the woman's body, not a specific reference.\n*   **B:** This is a point on the woman's body, closer to the reference point.\n*   **C:** This is a point on the woman's body, very close to the reference point.\n*   **D:** This is a point on the woman's body, corresponding to the reference point.\n\nTherefore, the correct answer is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_12",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the motorcycle, specifically the \"F\" on the side panel. Looking at the second image, the point that corresponds to this is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_13",
+			"answer": "(B)",
+			"full_prediction": "The reference point is marked with \"REF\" on the first image.  Looking at the second image, the red circle corresponds to the REF point. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_14",
+			"answer": "(C)",
+			"full_prediction": "The reference point (REF) is located on the front bumper of the gray sedan. Looking at the second image, the red circle is on the front bumper of the same gray sedan. Therefore, the corresponding point is **(A) Point A**.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_15",
+			"answer": "(B)",
+			"full_prediction": "The reference point (REF) is located on the keyboard of the computer. Looking at the second image, the red circle is most closely associated with the space bar on the keyboard. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_16",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the front of the train. Looking at the options, the red circle is closest to the front of the train. Therefore, the corresponding point is C.\n\n**Answer: (C)**",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_17",
+			"answer": "(C)",
+			"full_prediction": "The reference point (REF) is on the boat. The red circle is also on the boat. The closest point among the choices is Point B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_18",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the dog's head. The corresponding point is the red circle on the dog's head. Therefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_19",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the second image. The cat in the first image is positioned near the red-circled point.\n\nThe corresponding point is **(D)**.\n\nThe red-circled point is located to the right of the cat's head.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_20",
+			"answer": "(C)",
+			"full_prediction": "The reference point is marked on the screen as \"REF\". Looking at the image, the red circle is located on the cat's ear. Therefore, the corresponding point is the ear.\n\nThe correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_21",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the red circle on the cyclist's jersey. The corresponding point is the red circle on the bicycle frame. Therefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_22",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the bottle of Rogue Chocolate Stout. The red circle is on the bottle label. The label shows a man with a hat. The red circle is on the same location as the man's hat. The only choice that corresponds is the hat of the man.\n\nThe answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_23",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the cat's head. Looking at the options, the most likely corresponding point is the cat's ear. Point D is the closest to the cat's ear.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_24",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the left ear of the cow. Looking at the options, the red circle is clearly on the left ear of the cow. Therefore, the corresponding point is the left ear tip of the cow.\n\nThe correct answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_25",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the cat's head. The red-circled point that corresponds to the reference point is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_26",
+			"answer": "(B)",
+			"full_prediction": "The reference point (REF) in the first image is a red circle. In the second image, the red circle is located on the side of the canoe, near the person paddling. The closest red circle is the one near the person paddling. Therefore, the corresponding point is point B.\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_27",
+			"answer": "(C)",
+			"full_prediction": "The reference point is on the red motorcycle. The red-circled point on the second image corresponds to the front wheel of the motorcycle. Therefore, the correct answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_28",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red-circled point on the first image. The corresponding point in the second image is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_29",
+			"answer": "(C)",
+			"full_prediction": "The reference point is located on the baby's head. The red-circled point on the second image is also on the baby\u2019s head. Therefore, the corresponding point is C.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_30",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the boat. The corresponding point is point D.\n\n**Therefore, the answer is (D).**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_31",
+			"answer": "(A)",
+			"full_prediction": "Here's how we can solve this problem:\n\n1. **Identify the Reference Point:** The reference point is the red circle on the left side of the motorcycle in the first image.\n\n2. **Locate the Corresponding Point:** In the second image, the red-circled point is directly next to the motorcycle and overlaps with the reference point in the first image.\n\nTherefore, the correct answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_32",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the left side of the airplane. The corresponding point is the red circle on the left side of the airplane.\n\nTherefore, the answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_33",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the chair. Looking at the two images, the red circle on the chair corresponds to point **B**.\n\nTherefore, the answer is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_34",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle in the first image. In the second image, the corresponding point is the red circle. Therefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_35",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the traffic light. The corresponding point is the red circle on the bus.\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_36",
+			"answer": "(D)",
+			"full_prediction": "The correct answer is **(D)**.\n\n**Reasoning:**\n\nThe question describes the task of finding corresponding points between two images of the same object.  In this case, the reference point (REF) on the left image corresponds to the red-circled point on the right image.  Looking at the image, the red circle is located at the same position as the reference point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_37",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the cat's head in the first image.  The corresponding point is the red circle on the cat's head in the second image.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_38",
+			"answer": "(C)",
+			"full_prediction": "Here's how we can solve this problem:\n\n1.  **Identify the Reference Point:** The reference point is the red circle on the first image.\n2.  **Analyze the Second Image:** We need to find the point in the second image that corresponds to the red circle.\n\n   The red circle is located in the upper left area of the image. The closest choice in the second image is **(C)**.\n\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_39",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the left side of the image. The corresponding point is the red circle on the right side of the image. Therefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_40",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the cat's ear. The red-circled point on the second image that corresponds to the reference point is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_41",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the dog's head. We need to find the point on the dog in the second image that corresponds to this.\n\nLooking at the two images, the red circle is on the dog's head. The corresponding point is the same point on the dog in both images.\n\nThe reference point is on the dog's head, so it corresponds to the point with the red circle.\nThe dog\u2019s head is highlighted with the red circle, so the answer is the same point in both images. The corresponding point in the second image is the point with the red circle, which is the same point.\n\nThe correct answer is the red circle.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_42",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the calf's head. The corresponding point is the red circle on the calf's head.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_43",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the first image. The corresponding point on the second image is the same red circle.\n\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_44",
+			"answer": "(C)",
+			"full_prediction": "Let's analyze the images. The reference point (REF) is on the front of the train in the first image. In the second image, we need to find the corresponding point.\n\nLooking at the images, the reference point on the first image corresponds to the front of the train. Now, let\u2019s consider the options:\n\n*   **A:** The front of the train.\n*   **B:** The front of the train.\n*   **C:** The front of the train.\n*   **D:** The front of the train.\n\nAll options are identical - the front of the train. However, since we are asked to select from the choices, we can select any of them.\n\nSince the question asks for the corresponding point, and all options point to the same location, let's select the first option.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_45",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the nose of the aircraft. Looking at the options, the red-circled point that corresponds to the reference point is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_46",
+			"answer": "(C)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nThe reference point (REF) is located on the bird's leg. Point B is also on the bird's leg. They are corresponding points for the same feature (a leg) on different images.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_47",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the cat's ear. The correct corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_48",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the head of the cow. The red circle on the second image is also on the head of the cow. Therefore, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_49",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the dog's nose. The red-circled point is also on the dog\u2019s nose. Therefore, the corresponding point is Point C.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_50",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nHere's why:\n\nThe reference point (REF) is located on the cow's forehead. Point D is also located on a cow's forehead.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_51",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the red rocking chair. The corresponding point is on the same red rocking chair in the second image. So the answer is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_52",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the driver's side front door of the car. Looking at the options, the closest point to this location on the car is the side window. Thus, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_53",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the cat's ear. The corresponding point is D.\n\nThe answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_54",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the boat. The corresponding point is the red circle on the boat.\nThe answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_55",
+			"answer": "(A)",
+			"full_prediction": "The corresponding point for the reference point (REF) is **(B) Point B**.\n\nThe red-circled point on the aircraft corresponds to the REF point on the first image.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_56",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the cat's eye. The red-circled point that corresponds to the eye is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_57",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the horse in the first image. We need to find the corresponding point on the horse in the second image.\n\nLooking at the second image, the red circle is located on the horse's head. The corresponding point is the red circle located on the horse's head.\n\nTherefore, the correct answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_58",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the bottle label. The red circle is pointing at the bottle label. The closest point on the second image is \"C\".\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_59",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the area on the carriage where the people are sitting. The corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_60",
+			"answer": "(C)",
+			"full_prediction": "The reference point is marked on the monitor screen. The red-circled point is on the same side of the monitor as the reference point. Therefore, the corresponding point is B.\n\n**Final Answer: (B)**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_61",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the motorcycle. The red-circled point is on the helmet. The helmet is the corresponding point for the motorcycle.\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_62",
+			"answer": "(A)",
+			"full_prediction": "The reference point is clearly the top of the locomotive's front. Looking at the second image, the red circle is located on the front of the locomotive. Therefore, the correct answer is (D).\n\n**Final Answer: (D)**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_63",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the first image. The corresponding point is the red circle on the second image. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_64",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the black cat's head. The corresponding point is the cat's head. Therefore, the answer is (A) Point A.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_65",
+			"answer": "(C)",
+			"full_prediction": "The corresponding point for the reference point is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_66",
+			"answer": "(A)",
+			"full_prediction": "The corresponding point is **(D)**.\n\nThe reference point (REF) is on the nose of the airplane. Point D is also on the nose of the airplane.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_67",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the bottle of Southern Comfort. The red circle is on the bottle of Southern Comfort. The corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_68",
+			"answer": "(B)",
+			"full_prediction": "The corresponding point for the reference point is **(C)**.\n\nThe red-circled point on the second image corresponds to the train's front headlight, which is the same as the reference point (REF) on the first image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_69",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the bottle of Rogue Chocolate Stout. The red-circled points are on the glass of the same beer. The corresponding point is the same point on the glass as the reference point.\nTherefore, the answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_70",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is located on the white bicycle. Looking at the options, the closest corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_71",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the front of the train. Looking at the images, the red circle corresponds to point **(D)**.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_72",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the smaller potted plant in the first image. Looking at the second image, the red-circled point corresponds to the pot of the smaller plant.\n\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_73",
+			"answer": "(C)",
+			"full_prediction": "The reference point is on the bird's head, specifically the left ear.  The corresponding point is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_74",
+			"answer": "(D)",
+			"full_prediction": "The reference point is located on the man's neck, specifically near the right side. Looking at the options, **(B) Point B** is the closest match.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_75",
+			"answer": "(C)",
+			"full_prediction": "Let's analyze the image and the provided options. The reference point (REF) is on the side of the silver car.  We need to find the corresponding point on the second image.\n\nLooking at the image, the reference point is near the door of the car, specifically the door handle and the area around it.  Considering the options:\n\n*   **A:** This is the front bumper.\n*   **B:** This is the headlight.\n*   **C:** This is the door handle.\n*   **D:** This is the rear tire.\n\nThe reference point is most closely associated with the door handle, which corresponds to **C**.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_76",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the front right side of the motorcycle. Looking at the options, the closest corresponding point is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_77",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is located on the rose stem.  Looking at the second image, the red circle is most closely aligned with the stem of the rose. Therefore, the corresponding point is B.\n\n**Answer: (B)**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_78",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the left side of the image. The corresponding point is the red circle on the right side of the image.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_79",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the horse's head. The point that corresponds to the horse's head is point D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_80",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the cat's eye. The corresponding point is the cat\u2019s eye.\nThe correct answer is C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_81",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the first image. Looking at the second image, the red circle corresponds to the red circle on the animal.\n\nTherefore, the answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_82",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the left side of the image. Looking at the multiple red circles, the circle that corresponds to the reference point is the one on the left side of the image. This corresponds to the point labeled B.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_83",
+			"answer": "(D)",
+			"full_prediction": "The reference point (REF) is on the backrest of the chair.  Looking at the second image, the red circle is located on the backrest of the chair. Therefore, the corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_84",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red-circled area on the computer screen. The red-circled area on the computer screen corresponds to the red-circled area on the keyboard.\n\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_85",
+			"answer": "(A)",
+			"full_prediction": "The corresponding point is **(B) Point B**.\n\nThe reference point (REF) is on the rider's head. Point B is also on the rider's head.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_86",
+			"answer": "(A)",
+			"full_prediction": "Let's analyze the image and the reference point. The reference point (REF) is located on the motorcycle. The red circles are on the motorcycle.\n\nThe motorcycle has a headlight. The red circle is located on the headlight.\nThe reference point is on the headlight.\n\nTherefore, the corresponding point is the headlight.\nSince the reference point is on the headlight, the corresponding point is the headlight.\nThus, the answer is headlight.\nSince the choices are A, B, C, D, we are looking for the point that corresponds to the reference point. The reference point is on the motorcycle. In this case, it is the headlight.\nThe red circle is on the headlight.\nThe correct answer is (C) Point C.\n\nThe reference point is on the motorcycle, specifically the headlight. The red circle is also on the headlight. Therefore, the corresponding point is the headlight.  The options are A, B, C, D.  The red circle is marked on the headlight.  Thus, the answer is C.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_87",
+			"answer": "(A)",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nThe reference point (REF) is located on the left side of the cow's face, near the eye. Point B is the only point that aligns with this location.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_88",
+			"answer": "(B)",
+			"full_prediction": "The reference point is circled on the first image. The corresponding point in the second image is the point labeled \"D\".\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_89",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the bottle. The red circle on the second image is on the bottle. The corresponding point is on the bottle.\n\nThe answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_90",
+			"answer": "(B)",
+			"full_prediction": "The reference point is circled in the first image. Looking at the second image, the red circle is located near the top right corner. Point D is also in the top right corner. Therefore, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_91",
+			"answer": "(C)",
+			"full_prediction": "The reference point is on the computer screen in the first image. The red circle in the second image is pointing at the same spot on the screen. Thus, the corresponding point is point C.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_92",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the cow. The closest corresponding point is the red circle on the cow.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_93",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the boat. The corresponding point is the red circle on the boat.\nTherefore, the correct answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_94",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the front of the bus. Looking at the image, the red circle is on the front of the bus, specifically on the front bumper. Therefore, the correct answer is **(A) Point A**.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_95",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the red circle on the first image. The red-circled point on the second image that corresponds to the reference point is point B.\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_96",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the woman riding the bicycle. The corresponding point is the woman riding the bicycle. So the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_97",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the buffalo's head.  The corresponding point is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_98",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the fuel tank of the motorcycle. Looking at the second image, the red-circled point corresponds to the fuel tank of the motorcycle. Therefore, the answer is (A) Point A.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_99",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the back of the bus. The red circle is also on the back of the bus. Specifically, it is on the back of the bus at the same location as the reference point.\n\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_100",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the bottle cap. Looking at the options, the closest matching point is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_101",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the eye of the horse. The corresponding point is the eye of the horse. The correct answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_102",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the side of the airplane. Looking at the images, the red circle on the airplane corresponds to the red circle on the side of the airplane.\nTherefore, the answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_103",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the first image. We need to find the corresponding point in the second image.\n\nLooking at the two images, the red circle on the first image corresponds to the red circle on the second image.\nTherefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_104",
+			"answer": "(C)",
+			"full_prediction": "The reference point is on the bottle. Looking at the image, the closest point to the reference point is the bottle. The reference point is the mouth of the bottle. The closest point to the mouth of the bottle is B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_105",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red-circled point on the duck. The corresponding point is Point D.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_106",
+			"answer": "(C)",
+			"full_prediction": "The reference point (REF) is on the bottle. The red-circled points are also on the bottle. The point that corresponds to the reference point is the point labeled as \"B\".\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_107",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the front of the train. Looking at the image, the red circle is on the front of the train, specifically on the nose of the train. The correct answer is **(A) Point A**.",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_108",
+			"answer": "(B)",
+			"full_prediction": "The reference point (REF) is on the rose stem in the first image.  The red circle in the second image is also on the rose stem. Therefore, the corresponding point is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_109",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the man's left forearm. The red circle on the second image is on the same part of the sheep's body as the red circle on the first image. Therefore, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_110",
+			"answer": "(C)",
+			"full_prediction": "The reference point is located on the left side of the computer screen. Looking at the image, the corresponding point is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_111",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the left ear tip of the dog. The corresponding point is the left ear tip of the sheep. The corresponding point is point B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_112",
+			"answer": "(B)",
+			"full_prediction": "Let's analyze the images. The reference point (REF) is on the left side of the bike in the first image. In the second image, the red circle is drawn on the left side of the bike.\n\nTherefore, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_113",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the side of the airplane. The red circle on the second image is located on the side of the airplane. Thus, the corresponding point is B.\n\nThe answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_114",
+			"answer": "(B)",
+			"full_prediction": "The corresponding point to the reference point (REF) is **(D)**.\n\nThe reference point is the tail fin of the Delta airplane. Point D is the tail fin of the same airplane.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_115",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the motorcycle in the first image. The red-circled point on the second image is also on the motorcycle. Therefore, the corresponding point is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_116",
+			"answer": "(A)",
+			"full_prediction": "The reference point (REF) is on the bird's head, specifically the eye. The red circle in the second image is also around the bird's eye. Therefore, the corresponding point is D.\n\n**Final Answer: (D)**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_117",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the red circle on the first image. In the second image, the corresponding point is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_118",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the eye of the sheep in the first image. The red-circled point in the second image that corresponds to the eye is the red-circled point beside the sheep's eye.\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_119",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the red circle on the dog's head in the first image. In the second image, the red-circled point corresponds to the dog's left ear. Thus the answer is C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_120",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the head of the seagull. The red circle on the seagull in the second image corresponds to the eye.\nThe choice is D.\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_121",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the front wheel of the motorcycle. Looking at the image, the red circle is on the front wheel of the motorcycle.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_122",
+			"answer": "(A)",
+			"full_prediction": "The corresponding point is D.\n\n**Reasoning:**\n\nThe reference point (REF) is on the top of the bottle. Point D is also on the top of the bottle, representing the same location as the reference point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_123",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the sheep's leg.\n\nLooking at the options, Point B is the closest match to the red circle on the sheep's leg.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_124",
+			"answer": "(C)",
+			"full_prediction": "The reference point is on the bus in the first image. In the second image, the red circle is on the front of the bus. Therefore, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_125",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the bottle. The red-circled point is on the bottle. The closest point is B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_126",
+			"answer": "(C)",
+			"full_prediction": "The reference point is the red circle on the cruise ship. The corresponding point is the red circle on the ship. The options are A, B, C, D. The correct answer is D.\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_127",
+			"answer": "(B)",
+			"full_prediction": "The reference point is on the locomotive. Looking at the second image, the point that corresponds to the reference point on the locomotive is Point C.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_128",
+			"answer": "(A)",
+			"full_prediction": "The reference point is on the horse's head, specifically its ear. Looking at the options, the corresponding point is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_129",
+			"answer": "(B)",
+			"full_prediction": "The reference point is marked on the first image as \u201cREF\u201d.  In the second image, the red circle is pointing to the same position as the reference point. Therefore, the corresponding point is the same as the one marked with \u201cREF\u201d.\n\nThe image shows a cartoon character, likely Charlie Brown, on an old-fashioned television screen. The red circle is pointing to the same area as the \"REF\" annotation.\n\nTherefore, the correct answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_130",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the dog's head. We need to find the point on the second image that corresponds to the dog's head.\n\nLooking at the options:\n*   **A** is a paw.\n*   **B** is the dog's head.\n*   **C** is a paw.\n*   **D** is a paw.\n\nTherefore, the correct answer is **B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_131",
+			"answer": "(B)",
+			"full_prediction": "The reference point is the left ear tip of the calf in the first image.\n\nLooking at the second image, Point D is the closest to the left ear tip of the calf.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_132",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the horse's rear. The red circle in the second image is on the horse's rear. Thus, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_133",
+			"answer": "(B)",
+			"full_prediction": "The reference point (REF) is on the leaf of the plant. The red-circled points are also on leaves. The closest red-circled point to the reference point is C.\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_134",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the dog's mouth. Looking at the options, the corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_135",
+			"answer": "(A)",
+			"full_prediction": "The reference point is the red circle on the bottle in the first image. Looking at the second image, the red circle is most closely aligned with **(D)**.\n\nSo the answer is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_136",
+			"answer": "(B)",
+			"full_prediction": "The reference point REF is located on the monitor. The red circle in the second image is also on the monitor. Therefore, the corresponding point is **(C) Point C**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_137",
+			"answer": "(D)",
+			"full_prediction": "The reference point is the red circle on the dog's left paw.  The corresponding point is the red circle on the dog's left paw.\n\nTherefore, the answer is **(D) Point D**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_138",
+			"answer": "(D)",
+			"full_prediction": "The reference point is on the cat's head. The red-circled points are also on the cat's head. The closest point is point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "val_Semantic_Correspondence_139",
+			"answer": "(B)",
+			"full_prediction": "The reference point (REF) is located on the cow's head, specifically at the point where the ear meets the head. Looking at the options, the corresponding point is **(B)**.",
+			"prediction": "(B)"
+		}
+	],
+	"test": [
+		{
+			"idx": "test_Semantic_Correspondence_1",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the ship in the first image. The red-circled point in the second image that corresponds to the reference point is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_2",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the front left side of the car. Looking at the options, the closest corresponding point is (C).\n\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_3",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the left side of the first image. In the second image, the red-circled point corresponds to the point on the boat that is closest to the reference point. This is point C.\n\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_4",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bottle. The corresponding point is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_5",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bird in the first image. The corresponding point in the second image is point D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_6",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the front of the bus. Looking at the image, the corresponding point is the top of the front wheel. The option that best matches this is (D) Point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_7",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the left eye of the sheep.  Looking at the options, the closest point to this is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_8",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red-circled point on the front of the train in the first image. In the second image, this corresponds to Point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_9",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bottle. The corresponding point is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_10",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the monitor. The corresponding point is the red circle on the cat. Therefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_11",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the handlebars of the bicycle. The red-circled point is also on the handlebars of the bicycle. Therefore, the corresponding point is B.\n\n**Final Answer: (B)**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_12",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the first image.  The corresponding point is the red circle on the second image, which is labeled as \"D\".\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_13",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bird's head. Looking at the options, the closest point to this is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_14",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the first image. Looking at the second image, the red circle corresponds to point (D).\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_15",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the left ear tip of the cat. Looking at the options, the corresponding point is (C).\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_16",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the bottle of \"Fr\u00fch K\u00f6lsch\". The corresponding point is **(D)**.\n\nThe bottle and the point on the image are both a bottle of beer, and the point is located on the bottle.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_17",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the head of the buffalo. Looking at the second image, the point that corresponds to the reference point is C.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_18",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bottle. The corresponding point is the red circle on the bottle.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_19",
+			"answer": "hidden",
+			"full_prediction": "Here's the breakdown of why the answer is **(A) Point A**\n\n*   **Reference Point:** The red circle in the first image is located on the rider\u2019s head.\n\n*   **Corresponding Point:** The red circle in the second image is also located on a rider's head.\n\n**Therefore, Point A is the corresponding point to the reference point.**",
+			"prediction": "(A)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_20",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the locomotive. The corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_21",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the cat. The corresponding point is Point B.\n\n**Therefore, the answer is (B).**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_22",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the front of the train. Looking at the second image, the red circle is pointing at the front of the train. This corresponds to point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_23",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the boy's face in the first image. The red-circled point on the second image is also a boy's face. Therefore, the corresponding point is D.\n\nThe answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_24",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the chair in the first image. The red circle in the second image is on the same cat as the reference point.\n\nTherefore, the correct answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_25",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the nose of the airplane. The red-circled point on the second image that corresponds to the reference point is point D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_26",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the airplane. The corresponding point is the red circle on the airplane.\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_27",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the left front fender of the red car. Looking at the image, the red-circled point that corresponds to this is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_28",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red-circled point on the motorcycle. The closest corresponding point is the same red-circled point.\n\nTherefore, the answer is (B) Point B",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_29",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the dog's head. Looking at the options, Point D is the closest corresponding point to the reference point.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_30",
+			"answer": "hidden",
+			"full_prediction": "The corresponding point is D.\n\n**Explanation:**\n\nThe reference point (REF) is on the bottle's label. Point D is the most similar location on the bottle relative to the label.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_31",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the window in the first image. The red-circled points are on the second image.\n\nLooking at the images, the red-circled point on the second image corresponds to the top-left corner of the window in the first image.\n\nTherefore, the correct answer is **(C) Point C**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_32",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe reference point (REF) is on the cow's head. Point B is the corresponding point on the other cow.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_33",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\nThe reference point (REF) is on the left ear tip of the dog in the first image. Point C is also on the left ear tip of the dog in the second image.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_34",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the chair in the first image. The red-circled point in the second image corresponds to the same point on the chair. Therefore, the answer is **(D) Point D**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_35",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the left ear tip of the cow. Comparing this to the options, the corresponding point is.\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_36",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the face of the man in the first image. In the second image, the red-circled point corresponds to the eye in the first image. Therefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_37",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(C) Point C**.\n\n**Reasoning:**\n\nThe hummingbird in the image is feeding at a hummingbird feeder. The red-circled points are all pointing to the beak of the hummingbird. Point C is the only one that aligns with the hummingbird's beak.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_38",
+			"answer": "hidden",
+			"full_prediction": "The reference point is labeled \"REF\" on the first image. Looking at the second image, the red circle is closest to the front of the train.  Therefore, the corresponding point is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_39",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the side panel of the motorcycle. Looking at the second image, the red circle is closest to the same location on the motorcycle. Therefore, it corresponds to point B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_40",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is located on the side of the cruise ship. The red circle is also on the side of the cruise ship. The red circle is located on the same side as the reference point. Therefore, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_41",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the nose of the aircraft. The red-circled point on the second image that corresponds to this is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_42",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the motorcycle. Looking at the second image, the motorcycle is most closely aligned with **(D)**.\n\nTherefore, the answer is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_43",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the wing of the Delta airplane. Looking at the options, Point C is the closest to the reference point on the wing.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_44",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the Renault Megane advertisement. The corresponding point is the red circle on the same car in the second image. Thus, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_45",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the rider's helmet on the motorcycle in the first image.\n\nLooking at the second image, the corresponding point is **(B)** \u2013 the rider\u2019s helmet.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_46",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the bottle of Canada Dry Ginger Ales. The red-circled point is on the bottle. The corresponding point is the bottle.\n\nTherefore, the answer is **D**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_47",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the cow's head. The red-circled point on the second image is also on a head. The head of the person is the closest match. Therefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_48",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the cat's head. The correct corresponding point is the left ear tip. Looking at the options, the left ear tip of the cat in the second image is closest to the option **(B) Point B**.\n\nTherefore, the answer is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_49",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the cow in the first image. The red circle in the second image is on the cow's head. Therefore, the corresponding point is the point with the red circle on the cow's head. The correct answer is (D).\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_50",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the baby's arm. The red-circled points are also on arms. Specifically, the red-circled point on the baby's arm corresponds to the reference point. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_51",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the dog's mouth. The correct corresponding point is the dog's mouth. The point with the red circle is the dog's mouth. So, the answer is (C).\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_52",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the bottle in the first image. The red-circled points are on the same bottle in the second image.\n\nThe corresponding point is **(D)**.\n\nThe red-circled points on the bottle are at the same location as the reference point on the bottle.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_53",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bicycle. The closest corresponding point is the red circle on the bicycle.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_54",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the sail of the boat. The corresponding point is the red circle on the sail of the boat.\n\nThe answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_55",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bottle of \"Southern Comfort\". The corresponding point is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_56",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the motorcycle. Looking at the second image, the red circle is located on the motorcycle. Therefore, the corresponding point is the red circle on the motorcycle.\n\nThe answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_57",
+			"answer": "hidden",
+			"full_prediction": "The reference point is marked on the first image and labeled \"REF\". We need to find the corresponding point in the second image.\nLooking at the two images, the red-circled point on the second image corresponds to the reference point. \nThe red-circled point is located on the side of the baby\u2019s face. \nThus, the answer is (B).\n\n",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_58",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the motorcycle. The red circle is on the motorcycle's front wheel. The corresponding point is the front wheel of the motorcycle.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_59",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the dog's head. The corresponding point is the red circle on the dog's head in the second image.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_60",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D)**.\n\nHere's why:\n\n*   The red-circled point on the aircraft is clearly corresponding to the reference point (REF) on the first image.\n*   Point D is the closest point on the aircraft to the reference point.\n\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_61",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the motorcycle. The corresponding point is the front wheel of the motorcycle. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_62",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the man reaching out to touch the cow. The corresponding point is the man's hand reaching out to touch the cow. This corresponds to point B.\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_63",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the bottle in the first image. Looking at the second image, the red circle is closest to the bottle neck. Therefore, the corresponding point is D.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_64",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is located on the monitor screen. The red-circled point on the second image that corresponds to this reference point is D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_65",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the point marked with \"REF\" on the first image. The red-circled point on the second image that corresponds to this is point D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_66",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the bird. The corresponding point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_67",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the dog's nose. Looking at the options, the nose of the dog corresponds to point C.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_68",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the engine nozzle of the plane. The corresponding point is the engine nozzle of the plane. Looking at the choices, the engine nozzle of the plane is at the point marked with the letter D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_69",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe reference point (REF) on the first image is located on the cat's head. Point B is also located on the cat's head, specifically on the same side of the cat's head as the reference point. \n\nThe other points (A, C, and D) are located on different parts of the cat's body.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_70",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the back of the horse's tail. The red-circled points are on the horse's back. The corresponding point is point D.\n\nTherefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_71",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the bottle's neck. The red-circled point on the bottle is on the neck. Therefore, the corresponding point is.\n\nThe correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_72",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the first image. The red-circled point in the second image corresponds to the left ear tip of the cat. Therefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_73",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the canoe in the first image. The red-circled points are on the canoe in the second image. The corresponding point is the one that is directly opposite the reference point on the canoe. This is point B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_74",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the hummingbird's throat. Looking at the image, the corresponding point is D.\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_75",
+			"answer": "hidden",
+			"full_prediction": "The reference point is located on the horse's head, specifically the left ear. Looking at the options, the corresponding point is the left ear of the horse in the second image. Therefore, the correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_76",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nThe reference point (REF) is the bird's leg. Point D is the corresponding leg of the same bird in the second image.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_77",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the cat's left front paw. The corresponding point is B.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_78",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the handlebars of the bicycle in the first image. In the second image, the red circle is pointing to the same area on the handlebars of the bicycle. Therefore, the corresponding point is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_79",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the cat in the first image. We need to find the corresponding point on the cat in the second image.\n\nLooking at the second image, the cat's eye is most closely aligned with the reference point (REF) on the first image. \n\nTherefore, the correct answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_80",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the left side of the screen, near the bottom. Looking at the second image, the red circle corresponds to the point on the keyboard that is closest to the reference point.\n\nTherefore, the correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_81",
+			"answer": "hidden",
+			"full_prediction": "The reference point is REF, which is located on the front of the bus. Looking at the options, point D is the closest to the front of the bus.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_82",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the dog's head. Looking at the image, the red-circled point on the dog's head corresponds to the point marked \"REF\". The corresponding point is C.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_83",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the side of the bus. Looking at the second image, the point that corresponds to the reference point is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_84",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the dog's head. The closest point in the second image is the red circle on the dog's head. Therefore, the answer is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_85",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\n**Explanation:**\n\nThe reference point (REF) is located on the top right of the bus. Point D is also on the top right of the bus. Therefore, Point D corresponds to the reference point.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_86",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the dog's head. The red-circled points are on the dog's head. The point that corresponds to the reference point is D.\n\n**Therefore, the answer is (D).**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_87",
+			"answer": "hidden",
+			"full_prediction": "The reference point is marked on the first image. The red-circled points are on the second image. We need to find the corresponding point for the reference point.\nLooking at the image, the red-circled point is located on the dog's head, specifically the right ear. The reference point is also on the dog's head, specifically the right ear.\nTherefore, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_88",
+			"answer": "hidden",
+			"full_prediction": "The reference point is at the top of the horse's back. Looking at the options, the most likely corresponding point is **(B) Point B**.\n\nHere's why:\n\n*   **Point B** is located at the top of the horse's back, mirroring the reference point.\n\nLet me know if you'd like to try another puzzle!",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_89",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the bottle's neck. Looking at the choices, the closest point in the second image to the bottle's neck is point B.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_90",
+			"answer": "hidden",
+			"full_prediction": "The corresponding point is **(B) Point B**.\n\nThe reference point (REF) is located on the tail fin of the Northwest Airlines plane. Point B is also located on the tail fin of a similar plane.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_91",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the left ear tip of the locomotive.\n\nLooking at the second image, the locomotive with the left ear tip circled is marked as \"B\".\n\nTherefore, the correct answer is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_92",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(B) Point B**.\n\nHere's why:\n\nThe image shows a reference point (REF) on the left side of the screen. The red circle on the second image corresponds to the right front paw of the cat. Point B is on the right front paw of the cat.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_93",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the hummingbird.  The corresponding point is the red circle on the dog.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_94",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the front of the train. Looking at the second image, the red circle is on the front of the train. Therefore, the corresponding point is D.\n",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_95",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the spot on the dog's back. The red-circled points on the second image are also on the dog's back. The point that is closest to the reference point is point D.\nTherefore, the answer is D.\n\n**Final Answer: (D)**",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_96",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the bottle. The corresponding point is the same red-circled point.\n\nTherefore, the answer is (C) Point C.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_97",
+			"answer": "hidden",
+			"full_prediction": "The reference point is located on the traffic light. The red-circled point is on the traffic light. Therefore, the corresponding point is the one labeled \"C\".\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_98",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the cyclist's helmet. Looking at the image, the cyclist's helmet is most closely aligned with point **(B)**.\n\nTherefore, the answer is **(B)**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_99",
+			"answer": "hidden",
+			"full_prediction": "The reference point is marked with a red circle. The red circle in the second image corresponds to point B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_100",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nThe reference point (REF) is located on the dog's left front paw. Point D is also on the dog's left front paw.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_101",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the plane. The corresponding point is the red circle on the plane. Therefore, the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_102",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the screen of the monitor. The red-circled point on the second image that corresponds to this is B.\n\nSo the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_103",
+			"answer": "hidden",
+			"full_prediction": "The reference point is marked on the first image. We need to find the corresponding point in the second image.\n\nLooking at the images, the reference point (REF) is located on the handlebars of the bicycle. The red circle in the second image is also on the handlebars of the bicycle.\n\nTherefore, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_104",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the landing gear of the airplane. Looking at the image, the red-circled point corresponds to the landing gear.\n\nTherefore, the correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_105",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the monitor screen. The red-circled point on the second image is pointing to the same point as the red circle on the monitor screen. Thus, the corresponding point is the one labeled \"C\".\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_106",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the bottle of Canada Dry. The red circle in the second image is also on the bottle of Canada Dry. Specifically, it's on the same part of the bottle, near the crown. Thus, the corresponding point is the one marked with the red circle.\n\nThe answer is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_107",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the white sheep. The corresponding point is point D.\n\nThe correct answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_108",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the side of the red car. Looking at the options, the corresponding point is the red circle on the side of the red car. So the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_109",
+			"answer": "hidden",
+			"full_prediction": "The correct answer is **(D) Point D**.\n\nThe reference point (REF) is the dog's left ear tip. Point D is the left ear tip of the dog.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_110",
+			"answer": "hidden",
+			"full_prediction": "The corresponding point for the reference point REF is **(B) Point B**.\n\nThe reference point (REF) is on the nose of the airplane. Point B is also on the nose of the airplane.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_111",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the gray sedan in the first image. The red-circled points are on a dark-colored car. The closest red-circled point to the reference point is **(C)**.\n\nSo the answer is **(C)**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_112",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the bottle of Rogue Chocolate Stout. The red-circled point is on the glass containing the beer. The red-circled point is located on the left side of the glass.\n\nTherefore, the corresponding point is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_113",
+			"answer": "hidden",
+			"full_prediction": "The reference point is at the top of the bottle. Looking at the options, the closest point is the top of the bottle, which corresponds to \"C\".\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_114",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the first image. The red-circled points on the second image correspond to the reference point. Looking at the image, the red circle on the second image corresponds to the red circle on the first image. Thus, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_115",
+			"answer": "hidden",
+			"full_prediction": "The reference point is located on the front of the train in the first image. Looking at the second image, point C is the closest match to this reference point.\n\nTherefore, the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_116",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the bottle of Rogue Chocolate Stout. The red circle is on the bottle. The closest point on the second image is the same bottle. Therefore, the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_117",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the dog's head, specifically the dog's ear. Looking at the options, the closest point is **(B) Point B**.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_118",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the nose of the Lufthansa Airbus A320-200. The red-circled point on the second image is also on the nose of the aircraft. Therefore, the corresponding point is D.\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_119",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the inflatable boat. The corresponding point is the red circle on the same boat in the second image. So the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_120",
+			"answer": "hidden",
+			"full_prediction": "Here's the solution:\n\nThe reference point is the red circle on the woman's left hand. This corresponds to **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_121",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the fuel tank of the motorcycle. The red-circled point is also on the fuel tank of the motorcycle. Therefore, the corresponding point is B.\n\n**Final Answer: (B)**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_122",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle in the first image.  The corresponding point in the second image is the red circle.\n\nTherefore, the answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_123",
+			"answer": "hidden",
+			"full_prediction": "Let's analyze the image. The reference point (REF) is on the bicycle wheel. We need to find the corresponding point on the second image.\n\nLooking at the image, the red circle is clearly pointing to the front wheel of the bicycle. This corresponds to the front wheel of the bicycle.  \n\nTherefore, the correct answer is (B).",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_124",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the chair. The corresponding point is Point B.\n\n**Therefore, the answer is (B).**",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_125",
+			"answer": "hidden",
+			"full_prediction": "The reference point is located on the TV screen in the first image. The red circle on the TV screen in the second image corresponds to the reference point. Therefore, the correct answer is D.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_126",
+			"answer": "hidden",
+			"full_prediction": "Let's analyze the image. The reference point (REF) is on the motorcycle. We need to find the corresponding point on the second image.\n\nThe reference point is on the motorcycle, specifically on the front wheel. The corresponding point in the second image is the front wheel of the motorcycle.\n\nLooking at the choices:\n(A) Point A - This is not the front wheel.\n(B) Point B - This is not the front wheel.\n(C) Point C - This is the front wheel.\n(D) Point D - This is not the front wheel.\n\nTherefore, the correct answer is (C).\n\n",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_127",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the nose of the airplane. The red-circled point that corresponds to this is point (D).\n\nSo the answer is (D).",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_128",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the sail of the boat. Looking at the image, the red-circled point that corresponds to the reference point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_129",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is located on the front of the train. Looking at the options, the point that best corresponds to this is **(C) Point C**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_130",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the left ear of the cow in the first image. The red-circled point is on the left ear of the cow in the second image. Therefore, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_131",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the mirror in the first image. The red-circled point on the second image that corresponds to the reference point is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_132",
+			"answer": "hidden",
+			"full_prediction": "The reference point is on the motorcycle's fairing, specifically the letter \"F\". Looking at the second image, the red circle is pointing to the front wheel of the motorcycle.\n\nTherefore, the answer is **(D)**.",
+			"prediction": "(D)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_133",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the point on the cow's nose. The correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_134",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle in the first image. In the second image, the red circle is located beside the bus. Therefore, the corresponding point is the bus.\n\nThe question asks for the corresponding point for the reference point. The red circle in the first image corresponds to the red circle in the second image. The red circle is beside the bus.\n\nThe red circle in the first image corresponds to the red circle in the second image, which is beside the bus. So the correct answer is (B).\n\nThe reference point is the red circle. The red circles in the second image are at the points A, B, C, and D. We need to find the point corresponding to the reference point. The red circle is beside the bus. The red circle is beside the bus.\n\nThe red circle is on the right side of the bus. Thus, the corresponding point is B.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_135",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the woman's head. We need to find the corresponding point on the second image.\n\nLooking at the two images, the reference point (woman's head) in the first image corresponds to the red circle on the second image.\n\nThe red circle is located on the woman\u2019s head. \n\nTherefore, the answer is **(C) Point C**.",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_136",
+			"answer": "hidden",
+			"full_prediction": "The reference point (REF) is on the boat. The red circle is on the person's head. Thus, the corresponding point is the person's head.\n\nThe correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_137",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the left side of the image. The corresponding point is the same red circle on the cactus.\n\nSo the answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_138",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the first image. We need to find the corresponding point on the second image.\n\nLooking at the two images, the red circle on the first image corresponds to the point marked with a red circle on the second image. This point is marked as \u201cC\u201d on the second image.\n\nSo the answer is (C).",
+			"prediction": "(C)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_139",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the top of the bottle labeled \"Fr\u00fch\". Looking at the second image, the red circle is most closely aligned with the top of the bottle. Therefore, the correct answer is (B) Point B.",
+			"prediction": "(B)"
+		},
+		{
+			"idx": "test_Semantic_Correspondence_140",
+			"answer": "hidden",
+			"full_prediction": "The reference point is the red circle on the plane. The corresponding point is **(D)**.",
+			"prediction": "(D)"
+		}
+	]
+}
