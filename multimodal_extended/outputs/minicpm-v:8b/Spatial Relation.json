@@ -1044,7 +1044,7 @@
             "idx": "test_Spatial_Relation_31",
             "answer": "hidden",
             "full_prediction": "B. no",
-            "prediction": "B"
+            "prediction": "(B)"
         },
         {
             "idx": "test_Spatial_Relation_32",

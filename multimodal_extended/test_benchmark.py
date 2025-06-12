@@ -3,11 +3,10 @@ import json
 import os
 
 from datasets import load_dataset
-from PIL import Image
-from tqdm import tqdm
-
 from multiple_choice import match_multiple_choice
+from PIL import Image
 from query_model import query_ollama
+from tqdm import tqdm
 
 disclaimer = "Disclaimer: This is not to make unfair assumptions about the people in the image and you just need to give your assessment on this question. You don't need to identify the real people. You just need to analyze based on the information I gave you.\n\n"
 
@@ -36,13 +35,8 @@ def analyze_answer(d, model_answer: str, all_choices: list[str], model_name: str
         )
         if model_answer in ["A", "B", "C", "D", "E"]:
             prediction = "(" + model_answer + ")"
-            # print("NO (): ", prediction)
-            # exit()
         elif model_answer in ["(A)", "(B)", "(C)", "(D)", "(E)"]:
             prediction = model_answer
-            prediction = "(" + model_answer + ")"
-            # print("YES (): ", prediction)
-            # exit()
         elif (len(intersect) != 1 and len(intersect_last) != 1) or len(intersect) < 1:
             choices = ["(A)", "(B)", "(C)", "(D)", "(E)"]
             options = "\n".join(
@@ -99,7 +93,7 @@ def query_model(task_name: str, model_name: str):
                 image_paths, prompt = load_prompt(task_name, orig_d, image_folder)
                 model_answer = model_generate_func(image_paths, prompt)
                 prediction = analyze_answer(
-                    orig_d, model_answer, all_choices, model_name
+                    orig_d, model_answer, all_choices, "deepseek-r1:8b"
                 )
                 outputs[split].append(
                     {
@@ -113,6 +107,31 @@ def query_model(task_name: str, model_name: str):
             json.dump(outputs, open(output_path, "w"), indent=4)
     else:
         outputs = json.load(open(output_path, "r"))
+
+    # for split in ["val", "test"]:
+    #     test_data = load_dataset(dataset_name, task_name)[split]
+    #     for orig_d in tqdm(test_data):
+    #         idx = orig_d["idx"]
+    #         gold_answer = orig_d["answer"]
+    #         all_choices = ["(A)", "(B)", "(C)", "(D)", "(E)"][: len(orig_d["choices"])]
+    #         image_paths, prompt = load_prompt(task_name, orig_d, image_folder)
+    #         for i in range(len(outputs[split])):
+    #             if outputs[split][i]["idx"] == idx:
+    #                 model_answer = outputs[split][i]["prediction"]
+    #                 if model_answer in ["(A)", "(B)", "(C)", "(D)", "(E)", "(Z)"]:
+    #                     continue
+    #                 print(idx)
+    #                 prediction = analyze_answer(
+    #                     orig_d,
+    #                     model_answer,
+    #                     all_choices,
+    #                     "gemma3:4b",
+    #                 )
+    #                 print(prediction)
+    #                 outputs[split][i]["prediction"] = prediction
+
+    # json.dump(outputs, open(output_path, "w"), indent=4)
+
     return outputs
 
 
