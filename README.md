@@ -22,7 +22,7 @@ In the folder **specialized_art_style_model** there are the tools used to create
 
 ## Reproducing Table 1 Results
 
-In the folder **reproducing_table_1** you will find the tools to reproduce (parts of) the Table 1 results from the BLINK paper.  
+In the folder **reproducing_table_1** you will find the tools to reproduce the evaluation on LLaVA and BakLLaVA models.   
 Note: the experiment can be run on all tasks, subset of the tasks, or on a single task by adjusting the `--task_name` argument.
 
 ### Usage:
