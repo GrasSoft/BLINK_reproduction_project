@@ -1,3 +1,5 @@
 BLINK/
 Depth-Anything/
 *_images/
+specialized_localization/
+specialized_forensic_detection/lsun_adm.pth
