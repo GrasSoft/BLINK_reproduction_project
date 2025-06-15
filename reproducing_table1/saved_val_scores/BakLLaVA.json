@@ -1,0 +1,15 @@
+{
+    "Relative_Reflectance_accuracy": 0.30597014925373134,
+    "Relative_Reflectance_z_ratio": 0.0,
+    "Spatial_Relation_accuracy": 0.6153846153846154,
+    "Spatial_Relation_z_ratio": 0.04895104895104895,
+    "Jigsaw_accuracy": 0.42,
+    "Jigsaw_z_ratio": 0.04666666666666667,
+    "Semantic_Correspondence_accuracy": 0.2517985611510791,
+    "Semantic_Correspondence_z_ratio": 0.0,
+    "Object_Localization_accuracy": 0.10655737704918032,
+    "Object_Localization_z_ratio": 0.819672131147541,
+    "Counting_accuracy": 0.4083333333333333,
+    "Counting_z_ratio": 0.08333333333333333,
+    "Overall_accuracy": 0.35134067269532326
+}
