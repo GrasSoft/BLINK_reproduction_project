@@ -20,8 +20,7 @@ In the folder **specialized_art_style_model** there are the tools used to create
 - ```main.py```: this script links up two other that hold helper functions (```helper_functions.py and assess_style_differences.py```) to create a ```.csv``` file that holds the image paths and the losses for the (dis)similarity metric score. Results are stored in ```val_art_style_with_centers.csv```
 - ```accuracy_art_style.py```: this script takes the aforementioned ```.csv``` and computes the accuracy of the prediction.
 
-## Reproducing Table 1 Results
-
+## LLaVA and BakLLaVA Experiments
 In the folder **reproducing_table_1** you will find the tools to reproduce the evaluation on LLaVA and BakLLaVA models.   
 Note: the experiment can be run on all tasks, subset of the tasks, or on a single task by adjusting the `--task_name` argument.
 
