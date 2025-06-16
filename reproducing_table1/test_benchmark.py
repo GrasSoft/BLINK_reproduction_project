@@ -205,6 +205,7 @@ if __name__ == '__main__':
             'Semantic_Correspondence',  # high-level, pixel-level
             'Object_Localization',      # high-level, crop-level
             'Counting'                  # high-level, image-level
+            'Visual_Similarity'         # high-level, image-level
         ]
     else:
         subtasks = [args.task_name]
