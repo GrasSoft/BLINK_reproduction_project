@@ -120,6 +120,7 @@ if __name__ == '__main__':
         'Semantic_Correspondence',       # high-level, pixel-level
         'Object_Localization',           # high-level, crop-level
         'Counting'                       # high-level, image-level
+        'Visual_Similarity'              # high-level, image-level
     ]
 
     # Save val predictions + compute accuracy + z_ratio
@@ -127,7 +128,7 @@ if __name__ == '__main__':
     get_prediction_file(split, model_name)
     eval_prediction(split, model_name)
 
-    # Save test predictions (no accuracy possible)
+    # Save test predictions (no accuracy/Z-ratio possible)
     split = 'test'
     get_prediction_file(split, model_name)
     print('Test predictions saved. No accuracy computed for test split.\n')
