@@ -4,6 +4,7 @@ Originally, this function used GPT-3.5-turbo to help match model outputs to the 
 However, because GPT-3.5 is not freely accessible, we replaced it with this simple rule-based string-matching approach.
 This fallback looks for any mention of (A), (B), etc., directly in the model output.
 """
+import re
 
 
 def match_multiple_choice(question, options, model_output):
@@ -27,7 +28,9 @@ def match_multiple_choice(question, options, model_output):
 
     # Second pass: check for partial match (e.g. 'A' instead of '(A)')
     for choice in valid_choices:
-        if choice.strip('()') in model_output:
+        letter = choice.strip('()')
+        # match whole word: "A", not part of "AMAZING"
+        if re.search(rf'\b{letter}\b', model_output):
             return choice
 
     # If no match was found, return fallback '(Z)'
